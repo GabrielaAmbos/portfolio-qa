@@ -1,4 +1,4 @@
-## <img src="/icons/gato (3).png" width="40" height="40"> Minha Trajetória: 
+## <img src="/icons/gato (3).png" width="40" height="40"> Minha Trajetória:                 
 Olá, meu nome é Gabriela Ambos. 
 Trabalho a 6 anos como QA e automatizadora de testes. Comecei a estudar na área de programação com 15 anos, mas foi somente aos 18 que conheci a área de qualidade de software e me apaixonei.
 Já trabalhei em projetos para as [Lojas Renner](https://www.lojasrennersa.com.br/), [Banco Fibra](https://bancofibra.com.br/), [UniLaSalle](https://www.unilasalle.edu.br/canoas), [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Aquiris](https://www.aquiris.com.br/) e [RedStudios](https://redstudios.com.br/).
@@ -8,9 +8,9 @@ Já trabalhei em projetos para as [Lojas Renner](https://www.lojasrennersa.com.b
 Possuo experiência em análise de requisitos, escrita de cenários de teste em [BDD](https://www.objective.com.br/insights/bdd/), [testes end-to-end](https://circleci.com/blog/what-is-end-to-end-testing/), testes regressivos, testes de API e automação de testes. 
 Tenho experiência com as ferramentas de automação [Selenium](https://www.selenium.dev/documentation/webdriver/), [Cypress](https://www.cypress.io/), [RestSharp](https://restsharp.dev/) e [Rest Assured](https://rest-assured.io/) e possuo habilidades de programação em [Java](https://www.java.com/en/), [C#](https://dotnet.microsoft.com/pt-br/languages/csharp) e [JavaScript](https://www.w3schools.com/js/), criando scripts automatizados que cobrem diferentes cenários em diferentes níveis, como web e API, e garantem a integridade do sistema plataformas.
 
-Postman    | Git      | SQL Server   | VS Code   | Visual Studio | Intellij | MongoDB  | Cypress | Selenium  | Android  | iOS | Unreal | Cucumber |
-:---------:| :------: | :----------: | :-------: | :-----------: | :-------:| :-------:| :-----: | :-------: | :-------:| :-----: | :-----: | :-----: |
-<img src="/icons/postman.svg" width="50" height="50"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"> | <img src="/icons/sql-server.webp" width="50" height="50"> | <img src="/icons/visual-studio-code-1.svg" width="50" height="50"> | <img src="/icons/visual-studio-2013.svg" width="50" height="50"> | <img src="/icons/intellij-idea-1.svg" width="50" height="50"> | <img src="/icons/mongodb-icon-1.svg" width="50" height="50"> | <img src="/icons/cypress-1.svg" width="50" height="50"> | <img src="/icons/Selenium_Logo.png" width="50" height="50"> | <img src="/icons/android-4.svg" width="50" height="50"> | <img src="/icons/apple-14.svg" width="50" height="50"> | <img src="/icons/unreal-1.svg" width="50" height="50"> |  <img src="/icons/cucumber.svg" width="50" height="50"> |
+Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  | iOS | Unreal | Cucumber |
+:---------:| :------: | :----------: | :-------: | :-----------: | :-------:| :-------:| :-----: | :-------: | :-------:|
+<img src="/icons/postman.svg" width="50" height="50"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"> | <img src="/icons/sql-server.webp" width="50" height="50"> | <img src="/icons/mongodb-icon-1.svg" width="50" height="50"> | <img src="/icons/cypress-1.svg" width="50" height="50"> | <img src="/icons/Selenium_Logo.png" width="50" height="50"> | <img src="/icons/android-4.svg" width="50" height="50"> | <img src="/icons/apple-14.svg" width="50" height="50"> | <img src="/icons/unreal-1.svg" width="50" height="50"> |  <img src="/icons/cucumber.svg" width="50" height="50"> |
 
 ## <img src="/icons/gato.png" width="40" height="40"> Formação acadêmica:
 * Técnica em informática com foco em programação <br>
@@ -54,6 +54,7 @@ Postman    | Git      | SQL Server   | VS Code   | Visual Studio | Intellij | Mo
 
 ## <img src="/icons/gato-preto.png" width="40" height="40"> Contato
 Você pode entrar em contato comigo pelas plataformas:
+<img src="/icons/linkedin-icon-2.svg" width="40" height="40">
 * [Linkedin](https://linkedin.com/in/gabriela-ambos/)
 * [E-mail](https://linktr.ee/gabrielaambos)
 * [WhatsApp](https://wa.me/5551997978176)
