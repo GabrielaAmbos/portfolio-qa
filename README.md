@@ -50,9 +50,8 @@ Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  |
 * [Desafio Automação Rest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest): Projeto de automação de API utilizando C# e RestSharp
 * [Desafio Automação Busca CEP Correios](https://github.com/GabrielaAmbos/desafio-automacao-busca-cep-correios): Projeto de automação Web utilizando C#, Selenium e BDD
 * [Desafio Automação Trivago](https://github.com/GabrielaAmbos/desafio-automacao-trivago): Projeto de automação Web utilizando Java, Selenium e BDD
-  
 
-## <img src="/icons/gato-preto.png" width="40" height="40"> Contato
-Você pode entrar em contato comigo pelas plataformas:
-<a href="https://linkedin.com/in/gabriela-ambos/">
-<img src="/icons/linkedin-icon-2.svg" width="30" height="30"> </a>   <a href="https://linktr.ee/gabrielaambos"> <img src="/icons/linktree-2.svg" width="30" height="30"> </a>
+
+
+
+
