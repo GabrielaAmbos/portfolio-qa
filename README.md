@@ -54,7 +54,5 @@ Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  |
 
 ## <img src="/icons/gato-preto.png" width="40" height="40"> Contato
 Você pode entrar em contato comigo pelas plataformas:
-<img src="/icons/linkedin-icon-2.svg" width="40" height="40">
-* [Linkedin](https://linkedin.com/in/gabriela-ambos/)
-* [E-mail](https://linktr.ee/gabrielaambos)
-* [WhatsApp](https://wa.me/5551997978176)
+<a href="https://linkedin.com/in/gabriela-ambos/">
+<img src="/icons/linkedin-icon-2.svg" width="30" height="30"> </a>   <a href="https://linktr.ee/gabrielaambos"> <img src="/icons/linktree-2.svg" width="30" height="30"> </a>
