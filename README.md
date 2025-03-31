@@ -10,7 +10,7 @@ Tenho experiência com as ferramentas de automação [Selenium](https://www.sele
 
 Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  | iOS | Unreal | Cucumber |
 :---------:| :------: | :----------: | :-------: | :-----------: | :-------:| :-------:| :-----: | :-------: | :-------:|
-<img src="/icons/postman.svg" width="50" height="50"> | <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"> | <img src="/icons/sql-server.webp" width="50" height="50"> | <img src="/icons/mongodb-icon-1.svg" width="50" height="50"> | <img src="/icons/cypress-1.svg" width="50" height="50"> | <img src="/icons/Selenium_Logo.png" width="50" height="50"> | <img src="/icons/android-4.svg" width="50" height="50"> | <img src="/icons/apple-14.svg" width="50" height="50"> | <img src="/icons/unreal-1.svg" width="50" height="50"> |  <img src="/icons/cucumber.svg" width="50" height="50"> |
+<img src="/icons/postman.svg" width="50" height="50"> | <img src="/icons/git-icon.svg" width="50" height="50"> | <img src="/icons/sql-server.webp" width="50" height="50"> | <img src="/icons/mongodb-icon-1.svg" width="50" height="50"> | <img src="/icons/cypress-1.svg" width="50" height="50"> | <img src="/icons/Selenium_Logo.png" width="50" height="50"> | <img src="/icons/android-4.svg" width="50" height="50"> | <img src="/icons/apple-14.svg" width="50" height="50"> | <img src="/icons/unreal-1.svg" width="50" height="50"> |  <img src="/icons/cucumber.svg" width="50" height="50"> |
 
 ## <img src="/icons/gato.png" width="40" height="40"> Formação acadêmica:
 * Técnica em informática com foco em programação <br>
@@ -50,6 +50,7 @@ Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  |
 * [Desafio Automação Rest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest): Projeto de automação de API utilizando C# e RestSharp
 * [Desafio Automação Busca CEP Correios](https://github.com/GabrielaAmbos/desafio-automacao-busca-cep-correios): Projeto de automação Web utilizando C#, Selenium e BDD
 * [Desafio Automação Trivago](https://github.com/GabrielaAmbos/desafio-automacao-trivago): Projeto de automação Web utilizando Java, Selenium e BDD
+
 
 
 
