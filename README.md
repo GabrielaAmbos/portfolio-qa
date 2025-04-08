@@ -18,28 +18,25 @@ Postman    | Git      | SQL Server | MongoDB  | Cypress | Selenium  | Android  |
 
 ## <img src="/icons/gato-preto (2).png" width="40" height="40"> Principais cursos online que fiz:
 
-##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Alura
+##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Quality Assurance
 * [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate)
 * [Selenium: Sua webapp testada de ponta a ponta em java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate)
-* [Projetos Ágeis com SCRUM](https://www.dio.me/certificate/529C74E5/share)
-* [Agilidade: Promovendo a Transformação Digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79)
-* [C#: Entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802)
-
-##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Digital Innovation One
-
 * [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0)
 * [Introdução a Behavior Driven Development (BDD) com Java](https://www.dio.me/certificate/F6B4D8B7/share)
-* [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share)
-* [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share)
-* [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share)
-
-##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Test Automation University
 * [Intro To Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157)
 * [Automating your API Test with Rest Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0)
 * [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945)
-
-##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Udemy
 * [Teste de Software: Seja um Expert e Impulsione Sua Carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/)
+
+##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> Desenvolvimento de Software
+* [C#: Entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802)
+* [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share)
+* [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share)
+* [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share)
+
+##### <img src="/icons/clicker-do-mouse.png" width="20" height="20"> SCRUM/Kanban/Agilidade
+* [Projetos Ágeis com SCRUM](https://www.dio.me/certificate/529C74E5/share)
+* [Agilidade: Promovendo a Transformação Digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79)
 
 ## <img src="/icons/bicho-de-estimacao.png" width="40" height="40"> Projetos de Automação de Testes:
 * [Desafio Automação Go Rest Api](https://github.com/GabrielaAmbos/desafio-automacao-go-rest-api): Projeto de automação de API utilizando C# e RestSharp.
