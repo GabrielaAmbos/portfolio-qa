@@ -105,7 +105,6 @@ Qualidade vai além do código — estes artefatos demonstram planejamento e est
 
 | Artefato | Descrição |
 | --- | --- |
-| [Estratégia de Testes — Sistema de Transferências Bancárias](./1-test-strategy/test-strategy.md) | Estratégia completa com análise de riscos, escopo, pirâmide de automação e critérios de entrada/saída |
 | [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura padronizada de plano de testes: objetivos, tipos de teste, ambiente, riscos e cronograma |
 
 ## 🎓 Formação
