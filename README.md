@@ -1,3 +1,5 @@
+<p align="center"><b>Português</b> · <a href="README-EN.md">English</a></p>
+
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
