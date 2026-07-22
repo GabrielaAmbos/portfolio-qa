@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="README.md"><img src="./icons/bandeira-brasil.png" width="28" alt="Português"></a>&nbsp;
-  <a href="README-EN.md"><img src="./icons/bandeira-eua.png" width="28" alt="English"></a>
+  <a href="README.md"><img src="./icons/bandeira-brasil.png" width="28" height="21" alt="Português"></a>&nbsp;
+  <a href="README-EN.md"><img src="./icons/bandeira-eua.png" width="28" height="21" alt="English"></a>
 </p>
 
 <h1 align="center">Gabriela Ambos</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielaambos/">
+  <a href="https://www.linkedin.com/in/gabrielaambos/?locale=en-US">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gabrielaambos15@gmail.com">
@@ -47,7 +47,7 @@ I am a QA Automation Engineer with **6+ years of experience** in software qualit
 | 2020 | **GVDASA** | Academic system: grades, re-enrollment and documents | Selenium, C# |
 | 2019 to 2020 | **SENAI Innovation Institute** | Career start: experimental logistics projects | Cypress, BDD |
 
-> Full details of each role on [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
+> Full details of each role on [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US).
 
 ## <img src="./icons/gatinho-sorrindo.gif" width="35" height="35"> Technical skills
 
@@ -148,7 +148,7 @@ Quality goes beyond code: these artifacts showcase planning and strategy.
 
 I am open to opportunities and connections in software quality and test automation. Let's talk!
 
-- <img src="./icons/patinhas.gif" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
+- <img src="./icons/patinhas.gif" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US)
 - <img src="./icons/patinhas.gif" width="18" height="18"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
 - <img src="./icons/patinhas.gif" width="18" height="18"> [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp and Telegram)
 

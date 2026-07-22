@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="README.md"><img src="./icons/bandeira-brasil.png" width="28" alt="Português"></a>&nbsp;
-  <a href="README-EN.md"><img src="./icons/bandeira-eua.png" width="28" alt="English"></a>
+  <a href="README.md"><img src="./icons/bandeira-brasil.png" width="28" height="21" alt="Português"></a>&nbsp;
+  <a href="README-EN.md"><img src="./icons/bandeira-eua.png" width="28" height="21" alt="English"></a>
 </p>
 
 <h1 align="center">Gabriela Ambos</h1>
