@@ -18,33 +18,33 @@
 
 ---
 
-## 👋 Sobre mim
+## <img src="./icons/gatinho.gif" width="35" height="35"> Sobre mim
 
-Sou QA Automation Engineer com **mais de 6 anos de experiência** em qualidade de software, contribuindo para a confiabilidade de **sistemas críticos** nos setores **financeiro, varejo, games, governo e educação** — em projetos para [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Horizon Chase 2), entre outros.
+Sou QA Automation Engineer com **mais de 6 anos de experiência** em qualidade de software, contribuindo para a confiabilidade de **sistemas críticos** nos setores **financeiro, varejo, games, governo e educação**, em projetos para [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Horizon Chase 2), entre outros.
 
 **O que eu faço:**
-- 📋 Planejamento estratégico de testes **baseado em risco**: estratégia, planos de teste, análise de requisitos e gestão de defeitos
-- 🔍 Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), garantindo rastreabilidade entre times técnicos e de negócio
-- 🤖 Automação de testes **Web (E2E)** com Cypress/Node.js e Selenium, e **API** com Postman, SoapUI, Rest Assured e RestSharp
-- 🗄️ Validação de integrações e consistência de dados (Kafka, DBeaver, SQL Server, MongoDB)
-- 🎮 Testes de jogos multiplataforma (iOS, macOS, tvOS e Unreal Engine)
-- 🤝 Experiência em times internacionais, com documentação técnica em inglês e espanhol
+- <img src="./icons/patinhas.gif" width="18" height="18"> Planejamento estratégico de testes **baseado em risco**: estratégia, planos de teste, análise de requisitos e gestão de defeitos
+- <img src="./icons/patinhas.gif" width="18" height="18"> Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), garantindo rastreabilidade entre times técnicos e de negócio
+- <img src="./icons/patinhas.gif" width="18" height="18"> Automação de testes **Web (E2E)** com Cypress/Node.js e Selenium, e **API** com Postman, SoapUI, Rest Assured e RestSharp
+- <img src="./icons/patinhas.gif" width="18" height="18"> Validação de integrações e consistência de dados (Kafka, DBeaver, SQL Server, MongoDB)
+- <img src="./icons/patinhas.gif" width="18" height="18"> Testes de jogos multiplataforma (iOS, macOS, tvOS e Unreal Engine)
+- <img src="./icons/patinhas.gif" width="18" height="18"> Experiência em times internacionais, com documentação técnica em inglês e espanhol
 
-## 💼 Experiência profissional
+## <img src="./icons/gatinho-confiante.gif" width="35" height="35"> Experiência profissional
 
 | Período | Empresa | Projeto | Stack principal |
 | --- | --- | --- | --- |
-| 2023 – 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões, com alto impacto financeiro | Cypress, Node.js, Postman, Kafka |
-| 2022 – 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras: limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
+| 2023 a 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões, com alto impacto financeiro | Cypress, Node.js, Postman, Kafka |
+| 2022 a 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras: limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
 | 2022 | **Aquiris** | Game testing do **Horizon Chase 2** no ecossistema Apple (iPhone, iPad, Apple TV) | Unreal Engine, TestRail |
 | 2021 | **Lojas Renner** *(via Datum)* | Omnichannel: do e-commerce ao despacho em loja física, com testes em loja | Rest Assured, Java, Android |
-| 2020 – 2021 | **NTConsult** | Portal de transparência governamental internacional, 100% em espanhol | Selenium, RestSharp, C# |
+| 2020 a 2021 | **NTConsult** | Portal de transparência governamental internacional, 100% em espanhol | Selenium, RestSharp, C# |
 | 2020 | **GVDASA** | Sistema acadêmico: notas, rematrícula e documentos | Selenium, C# |
-| 2019 – 2020 | **Instituto SENAI** | Início de carreira: projetos experimentais de logística | Cypress, BDD |
+| 2019 a 2020 | **Instituto SENAI** | Início de carreira: projetos experimentais de logística | Cypress, BDD |
 
-> 💬 Detalhes de cada atuação no [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
+> Detalhes de cada atuação no [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
 
-## 🛠️ Habilidades técnicas
+## <img src="./icons/gatinho-sorrindo.gif" width="35" height="35"> Habilidades técnicas
 
 | Categoria | Ferramentas e tecnologias |
 | --- | --- |
@@ -71,7 +71,7 @@ Sou QA Automation Engineer com **mais de 6 anos de experiência** em qualidade d
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </p>
 
-## 🚀 Projetos em destaque
+## <img src="./icons/gatinho-apaixonado.gif" width="35" height="35"> Projetos em destaque
 
 ### Automação Web (E2E)
 
@@ -96,61 +96,63 @@ Sou QA Automation Engineer com **mais de 6 anos de experiência** em qualidade d
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Automação de testes mobile Android | Java, Appium |
-| [Robot Framework — exemplo](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo de automação com Robot Framework ⭐ | Python, Robot Framework |
-| [Robot Framework — NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
+| [Robot Framework, exemplo básico](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo de automação com Robot Framework | Python, Robot Framework |
+| [Robot Framework, NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
 
-## 📋 Documentação e artefatos de QA
+## <img src="./icons/gatinho-feliz.gif" width="35" height="35"> Documentação e artefatos de QA
 
-Qualidade vai além do código — estes artefatos demonstram planejamento e estratégia:
+Qualidade vai além do código: estes artefatos demonstram planejamento e estratégia.
 
 | Artefato | Descrição |
 | --- | --- |
 | [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura padronizada de plano de testes: objetivos, tipos de teste, ambiente, riscos e cronograma |
 
-## 🎓 Formação
+## <img src="./icons/gatinho-rindo.gif" width="35" height="35"> Formação
 
-- **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** — UNIASSELVI *(em andamento, conclusão prevista para 2027)*
-- **Análise e Desenvolvimento de Sistemas** — Universidade do Vale do Rio dos Sinos (Unisinos), 2019–2021
-- **Técnica em Informática** — Instituto Federal do Rio Grande do Sul (IFRS), Campus Sapucaia, 2013–2017
+- **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** na UNIASSELVI *(em andamento, conclusão prevista para 2027)*
+- **Análise e Desenvolvimento de Sistemas** na Universidade do Vale do Rio dos Sinos (Unisinos), 2019 a 2021
+- **Técnica em Informática** no Instituto Federal do Rio Grande do Sul (IFRS), Campus Sapucaia, 2013 a 2017
 
 **Idiomas:** Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
 
 <details>
-<summary><b>📜 Certificações e cursos (clique para expandir)</b></summary>
+<summary><b>Certificações e cursos (clique para expandir)</b></summary>
 
 ### Quality Assurance
-- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate) — Alura
-- [Selenium: sua webapp testada de ponta a ponta em Java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate) — Alura
-- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0) — Test Automation University
-- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157) — Test Automation University
-- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945) — Test Automation University
-- [Introdução a Behavior Driven Development (BDD) com Java](https://www.dio.me/certificate/F6B4D8B7/share) — DIO
-- [Teste de Software: seja um expert e impulsione sua carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/) — Udemy
+- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate) (Alura)
+- [Selenium: sua webapp testada de ponta a ponta em Java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate) (Alura)
+- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0) (Test Automation University)
+- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157) (Test Automation University)
+- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945) (Test Automation University)
+- [Introdução a Behavior Driven Development (BDD) com Java](https://www.dio.me/certificate/F6B4D8B7/share) (DIO)
+- [Teste de Software: seja um expert e impulsione sua carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/) (Udemy)
 
 ### Desenvolvimento de Software
-- [C#: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802) — Alura
-- [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share) — DIO
-- [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share) — DIO
-- [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share) — DIO
+- [C#: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802) (Alura)
+- [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share) (DIO)
+- [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share) (DIO)
+- [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share) (DIO)
 
 ### Agilidade
-- [Projetos Ágeis com SCRUM](https://www.dio.me/certificate/529C74E5/share) — DIO
-- [Agilidade: promovendo a transformação digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79) — Alura
+- [Projetos Ágeis com SCRUM](https://www.dio.me/certificate/529C74E5/share) (DIO)
+- [Agilidade: promovendo a transformação digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79) (Alura)
 
 </details>
 
-## 📫 Contato
+## <img src="./icons/gatinho-beijinho.gif" width="35" height="35"> Contato
 
-Estou aberta a oportunidades e conexões na área de qualidade e automação de testes — vamos conversar!
+Estou aberta a oportunidades e conexões na área de qualidade e automação de testes. Vamos conversar!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
-- 📧 [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
-- 🌳 [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp e Telegram)
+- <img src="./icons/patinhas.gif" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
+- <img src="./icons/patinhas.gif" width="18" height="18"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/patinhas.gif" width="18" height="18"> [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp e Telegram)
 
 ---
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
+  <i>"Quality is never an accident; it is always the result of intelligent effort." (John Ruskin)</i>
   <br><br>
   <img src="./icons/gato.gif" width="60" alt="gato">
+  <br>
+  <sub>Gatinhos animados: <a href="https://googlefonts.github.io/noto-emoji-animation/">Noto Animated Emoji</a> (Google, CC BY 4.0)</sub>
 </p>
