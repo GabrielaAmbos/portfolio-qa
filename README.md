@@ -108,7 +108,11 @@ Projeto de automação de API REST desenvolvido com **C# e RestSharp**, com foco
 
 ### Outros frameworks
 
-
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Automação de testes mobile Android | Java, Appium |
+| [Robot Framework — exemplo básico](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo introdutório de automação com Robot Framework | Python, Robot Framework |
+| [Robot Framework — NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
 
 </details>
 
