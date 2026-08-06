@@ -6,7 +6,7 @@
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
-  <b>QA Automation Engineer | Cypress | Selenium | API Testing | BDD</b>
+  <b>QA Engineer | Test Automation | Web, APIs & Mobile</b>
 </p>
 
 <p align="center">
@@ -23,141 +23,214 @@
 
 ---
 
-## <img src="./icons/gatinho.gif" width="35" height="35"> Sobre mim
+## <img src="./icons/cat.svg" width="30" height="30"> Sobre mim
 
-Sou QA Automation Engineer com **mais de 6 anos de experiência** em qualidade de software, contribuindo para a confiabilidade de **sistemas críticos** nos setores **financeiro, varejo, games, governo e educação**, em projetos para [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/) (Horizon Chase 2), entre outros.
+Sou QA Engineer com **mais de 6 anos de experiência** em qualidade de software e automação de testes, atuando na confiabilidade de sistemas críticos nos setores **financeiro, varejo, e-commerce, games e educação**.
 
-**O que eu faço:**
-- <img src="./icons/patinhas.gif" width="18" height="18"> Planejamento estratégico de testes **baseado em risco**: estratégia, planos de teste, análise de requisitos e gestão de defeitos
-- <img src="./icons/patinhas.gif" width="18" height="18"> Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), garantindo rastreabilidade entre times técnicos e de negócio
-- <img src="./icons/patinhas.gif" width="18" height="18"> Automação de testes **Web (E2E)** com Cypress/Node.js e Selenium, e **API** com Postman, SoapUI, Rest Assured e RestSharp
-- <img src="./icons/patinhas.gif" width="18" height="18"> Validação de integrações e consistência de dados (Kafka, DBeaver, SQL Server, MongoDB)
-- <img src="./icons/patinhas.gif" width="18" height="18"> Testes de jogos multiplataforma (iOS, macOS, tvOS e Unreal Engine)
-- <img src="./icons/patinhas.gif" width="18" height="18"> Experiência em times internacionais, com documentação técnica em inglês e espanhol
+Ao longo da minha trajetória, participei de projetos para empresas como [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/), incluindo a validação multiplataforma de **Horizon Chase 2**.
 
-## <img src="./icons/gatinho-confiante.gif" width="35" height="35"> Experiência profissional
+**Principais áreas de atuação:**
+
+- <img src="./icons/paw.svg" width="16" height="16"> Planejamento e definição de estratégias de teste **baseadas em risco**, incluindo planos de teste, análise de requisitos e gestão de defeitos
+- <img src="./icons/paw.svg" width="16" height="16"> Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), promovendo clareza e rastreabilidade entre áreas técnicas e de negócio
+- <img src="./icons/paw.svg" width="16" height="16"> Automação de testes **Web e E2E** com Cypress, Node.js e Selenium WebDriver
+- <img src="./icons/paw.svg" width="16" height="16"> Testes de **APIs REST e SOAP** com Postman, SoapUI, Rest Assured e RestSharp
+- <img src="./icons/paw.svg" width="16" height="16"> Validação de integrações, mensageria e consistência de dados com Kafka, DBeaver e SQL Server
+- <img src="./icons/paw.svg" width="16" height="16"> Testes de aplicações web, Android e plataformas Apple, além de testes de jogos com Unreal Engine
+- <img src="./icons/paw.svg" width="16" height="16"> Atuação em times internacionais, com documentação técnica em inglês e colaboração profissional em espanhol
+
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Projetos em destaque
+
+Estes projetos representam as principais áreas do meu portfólio: automação de API, testes E2E, diferentes linguagens e automação mobile.
+
+### Fake Store API — automação de testes de API
+
+Projeto autoral desenvolvido com **Cypress, JavaScript e Node.js**, estruturado para validar os endpoints públicos da Fake Store API.
+
+- 40 testes automatizados cobrindo produtos, carrinhos, usuários e autenticação
+- Cenários positivos e negativos
+- Validação de contratos, respostas e autenticação
+- Operações GET, POST, PUT, PATCH e DELETE
+- Custom commands, fixtures e organização por recursos
+- Separação entre testes smoke e regressivos por tags
+- ESLint, relatórios Mochawesome e workflows com GitHub Actions
+- Documentação técnica em português e inglês
+
+[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-fake-store-api)
+
+---
+
+### Trivago — automação Web E2E
+
+Projeto autoral de automação end-to-end desenvolvido com **Java, Selenium WebDriver, Cucumber e Maven**.
+
+- Cenários BDD escritos em Gherkin
+- Arquitetura baseada em Page Object Model
+- Testes de busca, ordenação e filtros de hotéis
+- Cenários positivos e negativos
+- Execução em modo headless
+- Suporte a Chrome, Firefox e Edge
+- Screenshots automáticos em caso de falha
+- Validações preparadas para dados dinâmicos de um ambiente real
+
+[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-trivago)
+
+---
+
+### Go Rest API — automação com RestSharp
+
+Projeto de automação de API REST desenvolvido com **C# e RestSharp**, com foco na validação de contratos, respostas e status HTTP.
+
+[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-go-rest-api)
+
+
+---
+
+<details>
+<summary><b>Outros projetos e estudos</b></summary>
+
+### Automação Web
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Busca CEP Correios](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automação Web com cenários escritos em BDD | C#, Selenium, SpecFlow |
+| [Cadastro de Usuários](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automação do fluxo de cadastro de usuários | C#, Selenium |
+| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automação Web de uma aplicação de e-commerce | Java, Selenium |
+
+### Automação de API
+
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Validação da criação e consulta de usuários em uma API REST | Java, Rest Assured |
+| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automação de API de e-commerce | C#, RestSharp |
+
+### Outros frameworks
+
+
+
+</details>
+
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Documentação e artefatos de QA
+
+Qualidade vai além do código. Este material demonstra minha experiência com planejamento, análise de riscos e organização do processo de testes.
+
+| Artefato | Descrição |
+| --- | --- |
+| [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura de plano de testes com objetivos, escopo, tipos de teste, ambiente, riscos, critérios e cronograma |
+
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Experiência profissional
 
 | Período | Empresa | Projeto | Stack principal |
 | --- | --- | --- | --- |
-| 2023 a 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões, com alto impacto financeiro | Cypress, Node.js, Postman, Kafka |
-| 2022 a 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras: limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
-| 2022 | **Aquiris** | Game testing do **Horizon Chase 2** no ecossistema Apple (iPhone, iPad, Apple TV) | Unreal Engine, TestRail |
-| 2021 | **Lojas Renner** *(via Datum)* | Omnichannel: do e-commerce ao despacho em loja física, com testes em loja | Rest Assured, Java, Android |
-| 2020 a 2021 | **NTConsult** | Portal de transparência governamental internacional, 100% em espanhol | Selenium, RestSharp, C# |
-| 2020 | **GVDASA** | Sistema acadêmico: notas, rematrícula e documentos | Selenium, C# |
-| 2019 a 2020 | **Instituto SENAI** | Início de carreira: projetos experimentais de logística | Cypress, BDD |
+| 2023 a 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões com impacto financeiro | Cypress, Node.js, Postman, Kafka |
+| 2022 a 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras, limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
+| 2022 | **Aquiris** | Testes de **Horizon Chase 2** no ecossistema Apple | Unreal Engine, TestRail |
+| 2021 | **Lojas Renner** *(via Datum)* | Operação omnichannel entre e-commerce, logística e lojas físicas | Rest Assured, Java, Android |
+| 2020 a 2021 | **NTConsult** | Portal internacional de transparência governamental, com atuação em espanhol | Selenium, RestSharp, C# |
+| 2020 | **GVDASA** | Sistema acadêmico com fluxos de notas, rematrícula e documentos | Selenium, C# |
+| 2019 a 2020 | **Instituto SENAI** | Projetos experimentais relacionados a logística e automação | Cypress, BDD |
 
-> Detalhes de cada atuação no [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
+> Consulte as responsabilidades e entregas de cada atuação no meu [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
 
-## <img src="./icons/gatinho-sorrindo.gif" width="35" height="35"> Habilidades técnicas
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Habilidades técnicas
+
+### Experiência profissional
+
+| Categoria | Ferramentas, tecnologias e práticas |
+| --- | --- |
+| **Automação Web e E2E** | Cypress, Selenium WebDriver, Cucumber, BDD e Gherkin |
+| **Testes de API** | Postman, SoapUI, Rest Assured, RestSharp, REST e SOAP |
+| **Linguagens** | JavaScript, Node.js, Java e C# |
+| **Dados e integrações** | SQL Server, DBeaver, SQL e Apache Kafka |
+| **Gestão e rastreabilidade** | Jira, Zephyr, Confluence, Azure DevOps, TestRail e ClickUp |
+| **Versionamento e análise** | Git, GitHub, code review, análise de logs e Chrome DevTools |
+| **Plataformas** | Web, Android, iOS, macOS, tvOS, Unreal Engine e Firebase |
+| **Metodologias** | Scrum, Kanban, testes baseados em risco e gestão de defeitos |
+
+### Projetos e estudos
 
 | Categoria | Ferramentas e tecnologias |
 | --- | --- |
-| **Automação de testes** | Selenium WebDriver, Cypress, Appium, Robot Framework, Cucumber (BDD) |
-| **Testes de API** | Postman, Rest Assured, RestSharp, SoapUI |
-| **Linguagens** | JavaScript/Node.js, Java, C# |
-| **Banco de dados** | SQL Server, MongoDB, DBeaver |
-| **Gestão e agilidade** | Jira, Zephyr, Confluence, Azure DevOps, TestRail, ClickUp, Scrum, Kanban |
-| **Plataformas** | Web, Android, iOS/macOS/tvOS, Unreal Engine, Firebase |
-| **Outros** | Git/GitHub, GitHub Actions, Apache Kafka, Chrome DevTools, IA aplicada a testes (Copilot, Rovo, Claude, ChatGPT) |
+| **Automação mobile** | Appium |
+| **Outros frameworks** | Robot Framework |
+| **Banco de dados** | MongoDB |
+| **Integração contínua** | GitHub Actions |
+| **Ferramentas de apoio** | GitHub Copilot, Rovo, Claude e ChatGPT |
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Appium-663399?style=flat-square&logo=appium&logoColor=white" alt="Appium">
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </p>
 
-## <img src="./icons/gatinho-apaixonado.gif" width="35" height="35"> Projetos em destaque
+---
 
-### Automação Web (E2E)
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Busca CEP Correios](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automação Web com cenários escritos em BDD | C#, Selenium, SpecFlow/BDD |
-| [Trivago](https://github.com/GabrielaAmbos/automacao-trivago) | Automação Web com BDD em site de reservas | Java, Selenium, Cucumber |
-| [Cadastro de Usuários](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automação Web de fluxo de cadastro | C#, Selenium |
-| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automação Web de e-commerce | Java, Selenium |
-
-### Automação de API
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Go Rest API](https://github.com/GabrielaAmbos/automacao-go-rest-api) | Automação de API REST com validação de contratos e status codes | C#, RestSharp |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Automação de API validando criação e busca de usuários | Java, Rest Assured |
-| [Fake Store API](https://github.com/GabrielaAmbos/automacao-fake-store-api) | Automação de API com Cypress | JavaScript, Cypress |
-| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automação de API de e-commerce | C#, RestSharp |
-
-### Mobile e outros frameworks
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Automação de testes mobile Android | Java, Appium |
-| [Robot Framework, exemplo básico](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo de automação com Robot Framework | Python, Robot Framework |
-| [Robot Framework, NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
-
-## <img src="./icons/gatinho-feliz.gif" width="35" height="35"> Documentação e artefatos de QA
-
-Qualidade vai além do código: estes artefatos demonstram planejamento e estratégia.
-
-| Artefato | Descrição |
-| --- | --- |
-| [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura padronizada de plano de testes: objetivos, tipos de teste, ambiente, riscos e cronograma |
-
-## <img src="./icons/gatinho-rindo.gif" width="35" height="35"> Formação
+## <img src="./icons/cat.svg" width="30" height="30"> Formação
 
 - **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** na UNIASSELVI *(em andamento, conclusão prevista para 2027)*
-- **Análise e Desenvolvimento de Sistemas** na Universidade do Vale do Rio dos Sinos (Unisinos), 2019 a 2021
-- **Técnica em Informática** no Instituto Federal do Rio Grande do Sul (IFRS), Campus Sapucaia, 2013 a 2017
+- **Técnica em Informática** no Instituto Federal do Rio Grande do Sul — IFRS, Campus Sapucaia, 2013 a 2017
 
-**Idiomas:** Português (nativo) · Inglês (intermediário) · Espanhol (intermediário)
+**Idiomas:**
+
+- Português nativo
+- Inglês técnico para leitura e documentação; conversação básica
+- Espanhol técnico para leitura e documentação
 
 <details>
-<summary><b>Certificações e cursos (clique para expandir)</b></summary>
+<summary><b>Certificações e cursos</b></summary>
 
 ### Quality Assurance
-- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate) (Alura)
-- [Selenium: sua webapp testada de ponta a ponta em Java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate) (Alura)
-- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0) (Test Automation University)
-- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157) (Test Automation University)
-- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945) (Test Automation University)
-- [Introdução a Behavior Driven Development (BDD) com Java](https://www.dio.me/certificate/F6B4D8B7/share) (DIO)
-- [Teste de Software: seja um expert e impulsione sua carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/) (Udemy)
 
-### Desenvolvimento de Software
-- [C#: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802) (Alura)
-- [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share) (DIO)
-- [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share) (DIO)
-- [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share) (DIO)
+- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate) — Alura
+- [Selenium: sua webapp testada de ponta a ponta em Java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate) — Alura
+- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0) — Test Automation University
+- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157) — Test Automation University
+- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945) — Test Automation University
+- [Introdução a Behavior Driven Development com Java](https://www.dio.me/certificate/F6B4D8B7/share) — DIO
+- [Teste de Software: seja um expert e impulsione sua carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/) — Udemy
+
+### Desenvolvimento de software
+
+- [C#: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802) — Alura
+- [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share) — DIO
+- [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share) — DIO
+- [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share) — DIO
 
 ### Agilidade
-- [Projetos Ágeis com SCRUM](https://www.dio.me/certificate/529C74E5/share) (DIO)
-- [Agilidade: promovendo a transformação digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79) (Alura)
+
+- [Projetos Ágeis com Scrum](https://www.dio.me/certificate/529C74E5/share) — DIO
+- [Agilidade: promovendo a transformação digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79) — Alura
 
 </details>
 
-## <img src="./icons/gatinho-beijinho.gif" width="35" height="35"> Contato
+## <img src="./icons/cat.svg" width="30" height="30"> Contato
 
 Estou aberta a oportunidades e conexões na área de qualidade e automação de testes. Vamos conversar!
 
-- <img src="./icons/patinhas.gif" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
-- <img src="./icons/patinhas.gif" width="18" height="18"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
-- <img src="./icons/patinhas.gif" width="18" height="18"> [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp e Telegram)
+- <img src="./icons/paw.svg" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
+- <img src="./icons/paw.svg" width="16" height="16"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [Linktree](https://linktr.ee/gabrielaambos)
+
 
 ---
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort." (John Ruskin)</i>
+  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
   <br><br>
-  <img src="./icons/gato.gif" width="60" alt="gato">
-  <br>
-  <sub>Gatinhos animados: <a href="https://googlefonts.github.io/noto-emoji-animation/">Noto Animated Emoji</a> (Google, CC BY 4.0)</sub>
+  <img src="./icons/gato.gif" width="60" alt="Gato">
 </p>
