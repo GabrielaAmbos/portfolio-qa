@@ -23,19 +23,19 @@
 
 ---
 
-## <img src="./icons/gatinho.gif" width="35" height="35"> About me
+## <img src="./icons/cat.svg" width="30" height="30"> About me
 
 I am a QA Automation Engineer with **6+ years of experience** in software quality, helping ensure the reliability of **mission-critical systems** across the **finance, retail, gaming, government and education** industries, in projects for [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) and [Aquiris](https://www.aquiris.com.br/) (Horizon Chase 2), among others.
 
 **What I do:**
-- <img src="./icons/patinhas.gif" width="18" height="18"> **Risk-based** test planning: strategy, test plans, requirements analysis and defect management
-- <img src="./icons/patinhas.gif" width="18" height="18"> Writing test scenarios with [BDD](https://cucumber.io/docs/bdd/), ensuring traceability between technical and business teams
-- <img src="./icons/patinhas.gif" width="18" height="18"> **Web (E2E)** test automation with Cypress/Node.js and Selenium, and **API** testing with Postman, SoapUI, Rest Assured and RestSharp
-- <img src="./icons/patinhas.gif" width="18" height="18"> Integration and data consistency validation (Kafka, DBeaver, SQL Server, MongoDB)
-- <img src="./icons/patinhas.gif" width="18" height="18"> Multi-platform game testing (iOS, macOS, tvOS and Unreal Engine)
-- <img src="./icons/patinhas.gif" width="18" height="18"> Experience with international teams, writing technical documentation in English and Spanish
+- <img src="./icons/paw.svg" width="16" height="16"> **Risk-based** test planning: strategy, test plans, requirements analysis and defect management
+- <img src="./icons/paw.svg" width="16" height="16"> Writing test scenarios with [BDD](https://cucumber.io/docs/bdd/), ensuring traceability between technical and business teams
+- <img src="./icons/paw.svg" width="16" height="16"> **Web (E2E)** test automation with Cypress/Node.js and Selenium, and **API** testing with Postman, SoapUI, Rest Assured and RestSharp
+- <img src="./icons/paw.svg" width="16" height="16"> Integration and data consistency validation (Kafka, DBeaver, SQL Server, MongoDB)
+- <img src="./icons/paw.svg" width="16" height="16"> Multi-platform game testing (iOS, macOS, tvOS and Unreal Engine)
+- <img src="./icons/paw.svg" width="16" height="16"> Experience with international teams, writing technical documentation in English and Spanish
 
-## <img src="./icons/gatinho-confiante.gif" width="35" height="35"> Professional experience
+## <img src="./icons/cat.svg" width="30" height="30"> Professional experience
 
 | Period | Company | Project | Main stack |
 | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ I am a QA Automation Engineer with **6+ years of experience** in software qualit
 
 > Full details of each role on [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US).
 
-## <img src="./icons/gatinho-sorrindo.gif" width="35" height="35"> Technical skills
+## <img src="./icons/cat.svg" width="30" height="30"> Technical skills
 
 | Category | Tools and technologies |
 | --- | --- |
@@ -76,7 +76,7 @@ I am a QA Automation Engineer with **6+ years of experience** in software qualit
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </p>
 
-## <img src="./icons/gatinho-apaixonado.gif" width="35" height="35"> Featured projects
+## <img src="./icons/cat.svg" width="30" height="30"> Featured projects
 
 ### Web automation (E2E)
 
@@ -104,7 +104,7 @@ I am a QA Automation Engineer with **6+ years of experience** in software qualit
 | [Robot Framework, basic example](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Automation example using Robot Framework | Python, Robot Framework |
 | [Robot Framework, NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Web automation using Robot Framework | Python, Robot Framework |
 
-## <img src="./icons/gatinho-feliz.gif" width="35" height="35"> QA documentation and artifacts
+## <img src="./icons/cat.svg" width="30" height="30"> QA documentation and artifacts
 
 Quality goes beyond code: these artifacts showcase planning and strategy.
 
@@ -112,7 +112,7 @@ Quality goes beyond code: these artifacts showcase planning and strategy.
 | --- | --- |
 | [Test Plan Template](https://github.com/GabrielaAmbos/plano-de-teste) | Standardized test plan structure: objectives, test types, environment, risks and schedule (in Portuguese) |
 
-## <img src="./icons/gatinho-rindo.gif" width="35" height="35"> Education
+## <img src="./icons/cat.svg" width="30" height="30"> Education
 
 - **Associate Degree in Systems Analysis and Development** at UNIASSELVI *(in progress, expected completion in 2027)*
 - **Systems Analysis and Development** at Universidade do Vale do Rio dos Sinos (Unisinos), 2019 to 2021
@@ -144,13 +144,13 @@ Quality goes beyond code: these artifacts showcase planning and strategy.
 
 </details>
 
-## <img src="./icons/gatinho-beijinho.gif" width="35" height="35"> Contact
+## <img src="./icons/cat.svg" width="30" height="30"> Contact
 
 I am open to opportunities and connections in software quality and test automation. Let's talk!
 
-- <img src="./icons/patinhas.gif" width="18" height="18"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US)
-- <img src="./icons/patinhas.gif" width="18" height="18"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
-- <img src="./icons/patinhas.gif" width="18" height="18"> [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp and Telegram)
+- <img src="./icons/paw.svg" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US)
+- <img src="./icons/paw.svg" width="16" height="16"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [Linktree](https://linktr.ee/gabrielaambos) (WhatsApp and Telegram)
 
 ---
 
@@ -158,6 +158,4 @@ I am open to opportunities and connections in software quality and test automati
   <i>"Quality is never an accident; it is always the result of intelligent effort." (John Ruskin)</i>
   <br><br>
   <img src="./icons/gato.gif" width="60" alt="cat">
-  <br>
-  <sub>Animated kittens: <a href="https://googlefonts.github.io/noto-emoji-animation/">Noto Animated Emoji</a> (Google, CC BY 4.0)</sub>
 </p>
