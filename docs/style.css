@@ -230,6 +230,7 @@ p:last-child { margin-bottom: 0; }
 .game-card { display: grid; grid-template-columns: 132px 1fr; gap: 20px; align-items: start; }
 .game-cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 10px; display: block; background: var(--surface-alt); }
 .game-card details { margin-top: 14px; }
+.game-card .tags { margin-top: 14px; }
 .game-card details ul { margin: 0; }
 
 /* Timeline */
