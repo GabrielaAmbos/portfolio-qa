@@ -32,7 +32,7 @@ I am a QA Engineer with **over 6 years of experience** in Software Quality, work
 
 Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) and [Aquiris](https://www.aquiris.com.br/), where I also worked on the validation of **Horizon Chase 2** in the Apple ecosystem.
 
-I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behaviour across the different layers of an application and turning all of that into a clear and sustainable test strategy.
+I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.
 
 **Main areas of expertise:**
 
@@ -48,11 +48,11 @@ I like to look at quality beyond the interface. My work involves understanding r
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Featured projects
 
-Here are some of the projects I built to practise and demonstrate different test automation approaches, from APIs to Web E2E journeys.
+Here are some of the projects I built to practice and demonstrate different test automation approaches, from APIs to Web E2E journeys.
 
 ### Fake Store API · API automation
 
-Project built to exercise an API automation suite with **Cypress, JavaScript and Node.js**, covering different resources and behaviours of the Fake Store API.
+Project built to exercise an API automation suite with **Cypress, JavaScript and Node.js**, covering different resources and behaviors of the Fake Store API.
 
 The suite has 40 automated tests, including positive and negative scenarios for products, carts, users and authentication. I also implemented contract and response validations, custom commands, fixtures, separation of smoke and regression tests and report generation.
 
@@ -68,7 +68,7 @@ The project uses GitHub Actions for automated execution and has documentation in
 
 End-to-end automation project built on a real hotel search environment, using **Java, Selenium WebDriver, Cucumber and Maven**.
 
-The scenarios were written in BDD/Gherkin and organised using the Page Object Model, with tests for search, sorting and filtering. The automation also covers headless execution, different browsers and automatic screenshot capture when a run fails.
+The scenarios were written in BDD/Gherkin and organized using the Page Object Model, with tests for search, sorting and filtering. The automation also covers headless execution, different browsers and automatic screenshot capture when a run fails.
 
 The main challenge of this project was working with a real application and its dynamic data, keeping the validations as stable as possible.
 
@@ -82,7 +82,7 @@ The main challenge of this project was working with a real application and its d
 
 REST API automation project built with **C# and RestSharp**, focused on validating responses, contracts and HTTP status codes.
 
-The goal was to explore an API testing approach using the C# ecosystem and to organise the tests in a simple and maintainable way.
+The goal was to explore an API testing approach using the C# ecosystem and to organize the tests in a simple and maintainable way.
 
 **Stack:** C# · RestSharp
 
@@ -94,7 +94,7 @@ The goal was to explore an API testing approach using the C# ecosystem and to or
 <details>
 <summary><b>Other projects and studies</b></summary>
 
-Besides the main projects, I maintain repositories dedicated to studying and practising different automation tools and stacks.
+Besides the main projects, I maintain repositories dedicated to studying and practicing different automation tools and stacks.
 
 ### Web automation
 
