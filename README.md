@@ -28,19 +28,21 @@
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Sobre mim
 
-Sou QA Engineer com **mais de 6 anos de experiência** em qualidade de software e automação de testes, atuando na confiabilidade de sistemas críticos nos setores **financeiro, varejo, e-commerce, games e educação**.
+Sou QA Engineer com **mais de 6 anos de experiência** em Qualidade de Software, atuando em produtos dos setores **financeiro, varejo, e-commerce, educação e games**.
 
-Ao longo da minha trajetória, participei de projetos para empresas como [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/), incluindo a validação multiplataforma de **Horizon Chase 2**.
+Ao longo da minha trajetória, trabalhei com sistemas de diferentes níveis de complexidade — de movimentações financeiras e cálculo de comissões a operações omnichannel e jogos multiplataforma. Participei de projetos para empresas como [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/), onde também atuei na validação de **Horizon Chase 2** no ecossistema Apple.
+
+Gosto de enxergar qualidade além da interface. Meu trabalho envolve entender requisitos e regras de negócio, identificar riscos, investigar o comportamento entre diferentes camadas da aplicação e transformar tudo isso em uma estratégia de testes clara e sustentável.
 
 **Principais áreas de atuação:**
 
-- <img src="./icons/paw.svg" width="16" height="16"> Planejamento e definição de estratégias de teste **baseadas em risco**, incluindo planos de teste, análise de requisitos e gestão de defeitos
-- <img src="./icons/paw.svg" width="16" height="16"> Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), promovendo clareza e rastreabilidade entre áreas técnicas e de negócio
-- <img src="./icons/paw.svg" width="16" height="16"> Automação de testes **Web e E2E** com Cypress, Node.js e Selenium WebDriver
-- <img src="./icons/paw.svg" width="16" height="16"> Testes de **APIs REST e SOAP** com Postman, SoapUI, Rest Assured e RestSharp
-- <img src="./icons/paw.svg" width="16" height="16"> Validação de integrações, mensageria e consistência de dados com Kafka, DBeaver e SQL Server
-- <img src="./icons/paw.svg" width="16" height="16"> Testes de aplicações web, Android e plataformas Apple, além de testes de jogos com Unreal Engine
-- <img src="./icons/paw.svg" width="16" height="16"> Atuação em times internacionais, com documentação técnica em inglês e colaboração profissional em espanhol
+- <img src="./icons/paw.svg" width="16" height="16"> **Estratégia de testes:** planejamento, análise de requisitos, testes baseados em risco e gestão de defeitos
+- <img src="./icons/paw.svg" width="16" height="16"> **Automação Web e E2E:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java e C#
+- <img src="./icons/paw.svg" width="16" height="16"> **[BDD](https://www.objective.com.br/insights/bdd/):** criação de cenários em Gherkin para aproximar negócio, desenvolvimento e QA
+- <img src="./icons/paw.svg" width="16" height="16"> **API Testing:** REST e SOAP com Postman, SoapUI, Rest Assured e RestSharp
+- <img src="./icons/paw.svg" width="16" height="16"> **Dados e integrações:** SQL, SQL Server, DBeaver, Kafka e análise de logs
+- <img src="./icons/paw.svg" width="16" height="16"> **Mobile e multiplataforma:** Android, iOS, macOS, tvOS e testes de games com Unreal Engine
+- <img src="./icons/paw.svg" width="16" height="16"> **Times internacionais:** documentação técnica em inglês e experiência profissional em espanhol
 
 ---
 
