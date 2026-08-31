@@ -318,6 +318,7 @@ Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo
 
 Minha formação combina tecnologia, desenvolvimento de software e aprendizado contínuo em Qualidade.
 
+- **Jogos Digitais**<br>Estácio · 2026 · Em andamento
 - **Análise e Desenvolvimento de Sistemas**<br>UNIASSELVI · Em andamento · Conclusão prevista para 2027
 - **Técnico em Informática**<br>Instituto Federal do Rio Grande do Sul — Campus Sapucaia · 2013–2017
 
