@@ -166,7 +166,7 @@ Unlike my traditional QA experience, here my work is more focused on direct expe
 - Retesting of fixes
 - Suggestions related to usability and player experience
 
-**V-Monsters Digital Farm** — project focused on an experience of raising and interacting with monsters. *PC / Steam*
+**[V-Monsters Digital Farm](https://store.steampowered.com/app/2575100/VMonsters_Digital_Farm/)** — project focused on an experience of raising and interacting with monsters. *PC / Steam*
 
 - Exploratory testing of builds
 - Regression of features after changes
@@ -175,7 +175,7 @@ Unlike my traditional QA experience, here my work is more focused on direct expe
 - Evaluation of behaviors that could harm the player's experience or progression
 - Usability suggestions during test sessions
 
-**V-Monsters Forgotten Link** — new franchise project currently in development. *PC / Steam*
+**[V-Monsters Forgotten Link](https://store.steampowered.com/app/3677780/VMonsters_Forgotten_Link/)** — new franchise project currently in development. *PC / Steam*
 
 - Alpha testing
 - Exploratory testing
