@@ -215,6 +215,7 @@ Os exemplos abaixo utilizam contextos fictícios ou dados públicos para demonst
 | [Cenários BDD / Gherkin](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste-bdd.md) | Regras de negócio em cenários Given/When/Then, compreensíveis para QA, desenvolvimento e negócio | BDD · Gherkin · Acceptance Criteria |
 | [Relatório de Bug](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-bug.md) | Ambiente, passos, resultado atual e esperado, severidade e evidências para permitir reprodução e priorização | Defect Management · Troubleshooting · Communication |
 | [Matriz de Rastreabilidade](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/matriz-rastreabilidade.md) | Relação entre requisito, critério de aceite, caso de teste, execução e defeito | Traceability · Test Coverage · Requirements Analysis |
+| [Relatório de Ciclo de Testes](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-execucao.md) | Casos planejados e executados, resultados, defeitos por severidade, riscos conhecidos e recomendação de QA sobre a liberação | Test Reporting · Quality Metrics · Release Readiness |
 
 Estes e outros templates — checklists, charter exploratório, plano de automação e documentos de processo — estão reunidos no repositório [qa-templates](https://github.com/GabrielaAmbos/qa-templates).
 
