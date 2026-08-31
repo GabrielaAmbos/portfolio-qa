@@ -38,7 +38,7 @@ Gosto de enxergar qualidade além da interface. Meu trabalho envolve entender re
 
 - <img src="./icons/paw.svg" width="16" height="16"> **Estratégia de testes:** planejamento, análise de requisitos, testes baseados em risco e gestão de defeitos
 - <img src="./icons/paw.svg" width="16" height="16"> **Automação Web e E2E:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java e C#
-- <img src="./icons/paw.svg" width="16" height="16"> **[BDD](https://www.objective.com.br/insights/bdd/):** criação de cenários em Gherkin para aproximar negócio, desenvolvimento e QA
+- <img src="./icons/paw.svg" width="16" height="16"> **BDD:** criação de cenários em Gherkin para aproximar negócio, desenvolvimento e QA
 - <img src="./icons/paw.svg" width="16" height="16"> **API Testing:** REST e SOAP com Postman, SoapUI, Rest Assured e RestSharp
 - <img src="./icons/paw.svg" width="16" height="16"> **Dados e integrações:** SQL, SQL Server, DBeaver, Kafka e análise de logs
 - <img src="./icons/paw.svg" width="16" height="16"> **Mobile e multiplataforma:** Android, iOS, macOS, tvOS e testes de games com Unreal Engine
