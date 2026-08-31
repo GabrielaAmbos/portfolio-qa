@@ -318,6 +318,7 @@ Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo
 
 My education combines technology, software development and continuous learning in Quality.
 
+- **Digital Games**<br>Estácio · 2026 · In progress
 - **Systems Analysis and Development**<br>UNIASSELVI · In progress · Expected completion in 2027
 - **Technical Degree in Information Technology**<br>Instituto Federal do Rio Grande do Sul — Sapucaia Campus · 2013–2017
 
