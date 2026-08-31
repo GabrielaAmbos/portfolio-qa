@@ -227,14 +227,16 @@ Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Formação
 
-- **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** na UNIASSELVI *(em andamento, conclusão prevista para 2027)*
-- **Técnica em Informática** no Instituto Federal do Rio Grande do Sul — IFRS, Campus Sapucaia, 2013 a 2017
+Minha formação combina tecnologia, desenvolvimento de software e aprendizado contínuo em Qualidade.
+
+- **Análise e Desenvolvimento de Sistemas**<br>UNIASSELVI · Em andamento · Conclusão prevista para 2027
+- **Técnico em Informática**<br>Instituto Federal do Rio Grande do Sul — Campus Sapucaia · 2013–2017
 
 **Idiomas:**
 
-- Português nativo
-- Inglês técnico para leitura e documentação; conversação básica
-- Espanhol técnico para leitura e documentação
+- **Português:** nativo
+- **Inglês:** leitura e documentação técnica; conversação básica
+- **Espanhol:** leitura e documentação técnica, com experiência de comunicação em projeto internacional
 
 <details>
 <summary><b>Certificações e cursos</b></summary>
