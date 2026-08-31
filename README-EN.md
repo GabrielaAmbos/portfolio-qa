@@ -30,7 +30,7 @@
 
 I am a QA Engineer with **over 6 years of experience** in Software Quality, working on products in the **finance, retail, e-commerce, education and gaming** industries.
 
-Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/), [Aquiris](https://www.aquiris.com.br/) and [RedStudios](https://redstudios.com.br/), including the multi-platform validation of **Horizon Chase 2** and Alpha/Beta testing of projects from the **V-Monsters** franchise.
+Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/), [Aquiris](https://www.aquiris.com.br/) and [RedStudios](https://redstudios.com.br/), including the multi-platform validation of **[Horizon Chase 2](https://www.horizonchase2.com/)** and Alpha/Beta testing of projects from the **[V-Monsters](https://vmonsters.com/)** franchise.
 
 I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.
 
@@ -156,13 +156,13 @@ Testing of financial flows involving transfers, transaction limits and multi-lev
 
 ### Aquiris · 2022
 
-QA for **Horizon Chase 2** during the pre-launch period, testing across different devices in the Apple ecosystem.
+QA for **[Horizon Chase 2](https://www.horizonchase2.com/)** during the pre-launch period, testing across different devices in the Apple ecosystem.
 
 **Main technologies:** Unreal Engine · TestRail · iOS · macOS · tvOS
 
 ### RedStudios · 2021–present
 
-Alpha/Beta testing of games from the V-Monsters franchise, with exploratory validation, regression, E2E and defect tracking on Android and PC/Steam.
+Alpha/Beta testing of games from the **[V-Monsters](https://vmonsters.com/)** franchise, with exploratory validation, regression, E2E and defect tracking on Android and PC/Steam.
 
 **Main practices:** Game QA · Alpha/Beta Testing · Android · Steam
 
