@@ -226,10 +226,9 @@ p:last-child { margin-bottom: 0; }
 .qa-grid .card p { margin: 0; }
 
 /* Cards de jogos */
-.game-cards { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
-.game-card { padding: 0; overflow: hidden; }
-.game-cover { width: 100%; aspect-ratio: 450 / 250; object-fit: cover; object-position: center; display: block; background: var(--surface-alt); }
-.game-body { padding: 20px 22px 22px; }
+.game-cards { display: grid; gap: 18px; }
+.game-card { display: grid; grid-template-columns: 132px 1fr; gap: 20px; align-items: start; }
+.game-cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 10px; display: block; background: var(--surface-alt); }
 .game-card details { margin-top: 14px; }
 .game-card details ul { margin: 0; }
 
@@ -337,4 +336,5 @@ footer img { width: 52px; height: auto; }
   .hero { padding: 48px 0 40px; }
   .job, .skill-row { grid-template-columns: 1fr; gap: 4px; }
   .job .period { font-size: .8rem; }
+  .game-card { grid-template-columns: 84px 1fr; gap: 14px; }
 }
