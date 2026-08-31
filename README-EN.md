@@ -28,19 +28,21 @@
 
 ## <img src="./icons/cat.svg" width="30" height="30"> About me
 
-I am a QA Engineer with **over 6 years of experience** in software quality and test automation, working on the reliability of critical systems in the **finance, retail, e-commerce, gaming and education** industries.
+I am a QA Engineer with **over 6 years of experience** in Software Quality, working on products in the **finance, retail, e-commerce, education and gaming** industries.
 
-Throughout my career, I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) and [Aquiris](https://www.aquiris.com.br/), including the multi-platform validation of **Horizon Chase 2**.
+Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) and [Aquiris](https://www.aquiris.com.br/), where I also worked on the validation of **Horizon Chase 2** in the Apple ecosystem.
+
+I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behaviour across the different layers of an application and turning all of that into a clear and sustainable test strategy.
 
 **Main areas of expertise:**
 
-- <img src="./icons/paw.svg" width="16" height="16"> Planning and defining **risk-based** test strategies, including test plans, requirements analysis and defect management
-- <img src="./icons/paw.svg" width="16" height="16"> Writing scenarios with [BDD](https://cucumber.io/docs/bdd/), fostering clarity and traceability between technical and business areas
-- <img src="./icons/paw.svg" width="16" height="16"> **Web and E2E** test automation with Cypress, Node.js and Selenium WebDriver
-- <img src="./icons/paw.svg" width="16" height="16"> **REST and SOAP API** testing with Postman, SoapUI, Rest Assured and RestSharp
-- <img src="./icons/paw.svg" width="16" height="16"> Validation of integrations, messaging and data consistency with Kafka, DBeaver and SQL Server
-- <img src="./icons/paw.svg" width="16" height="16"> Testing of web, Android and Apple platform applications, as well as game testing with Unreal Engine
-- <img src="./icons/paw.svg" width="16" height="16"> Working with international teams, writing technical documentation in English and collaborating professionally in Spanish
+- <img src="./icons/paw.svg" width="16" height="16"> **Test strategy:** planning, requirements analysis, risk-based testing and defect management
+- <img src="./icons/paw.svg" width="16" height="16"> **Web and E2E automation:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java and C#
+- <img src="./icons/paw.svg" width="16" height="16"> **[BDD](https://cucumber.io/docs/bdd/):** writing scenarios in Gherkin to bring business, development and QA closer together
+- <img src="./icons/paw.svg" width="16" height="16"> **API testing:** REST and SOAP with Postman, SoapUI, Rest Assured and RestSharp
+- <img src="./icons/paw.svg" width="16" height="16"> **Data and integrations:** SQL, SQL Server, DBeaver, Kafka and log analysis
+- <img src="./icons/paw.svg" width="16" height="16"> **Mobile and multi-platform:** Android, iOS, macOS, tvOS and game testing with Unreal Engine
+- <img src="./icons/paw.svg" width="16" height="16"> **International teams:** technical documentation in English and professional experience in Spanish
 
 ---
 
