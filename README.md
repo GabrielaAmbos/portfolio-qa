@@ -94,28 +94,29 @@ O objetivo foi explorar uma abordagem de API Testing utilizando o ecossistema C#
 <details>
 <summary><b>Outros projetos e estudos</b></summary>
 
+Além dos projetos principais, mantenho repositórios voltados ao estudo e à prática de diferentes ferramentas e stacks de automação.
+
 ### Automação Web
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Busca CEP Correios](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automação Web com cenários escritos em BDD | C#, Selenium, SpecFlow |
-| [Cadastro de Usuários](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automação do fluxo de cadastro de usuários | C#, Selenium |
-| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automação Web de uma aplicação de e-commerce | Java, Selenium |
+| [Busca CEP Correios](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automação de cenários Web escritos em BDD | C# · Selenium · SpecFlow |
+| [Cadastro de Usuários](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automação do fluxo de cadastro de usuários em aplicação Web | C# · Selenium |
+| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automação de jornadas em uma aplicação de e-commerce | Java · Selenium |
 
-### Automação de API
+### Automação de APIs
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Validação da criação e consulta de usuários em uma API REST | Java, Rest Assured |
-| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automação de API de e-commerce | C#, RestSharp |
+| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Automação da criação e consulta de usuários em uma API REST | Java · Rest Assured |
+| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Testes automatizados de uma API de e-commerce | C# · RestSharp |
 
 ### Outros frameworks
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Automação de testes mobile Android | Java, Appium |
-| [Robot Framework — exemplo básico](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo introdutório de automação com Robot Framework | Python, Robot Framework |
-| [Robot Framework — NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
+| [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Projeto de estudo voltado à automação de aplicações Android | Java · Appium |
+| [Robot Framework](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Projetos introdutórios de automação Web utilizando Robot Framework | Python · Robot Framework |
 
 </details>
 
