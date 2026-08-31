@@ -267,10 +267,13 @@ Minha formação combina tecnologia, desenvolvimento de software e aprendizado c
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Contato
 
-Estou aberta a oportunidades e conexões na área de qualidade e automação de testes. Vamos conversar!
+Tem uma oportunidade, projeto ou simplesmente quer conversar sobre Qualidade de Software?
+
+Você pode entrar em contato comigo pelo LinkedIn ou e-mail. Também mantenho meus projetos e estudos disponíveis no GitHub.
 
 - <img src="./icons/paw.svg" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
-- <img src="./icons/paw.svg" width="16" height="16"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [E-mail](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [GitHub](https://github.com/GabrielaAmbos)
 - <img src="./icons/paw.svg" width="16" height="16"> [Linktree](https://linktr.ee/gabrielaambos)
 
 
