@@ -140,17 +140,52 @@ O material pode ser utilizado como ponto de partida e adaptado de acordo com as 
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Experiência profissional
 
-| Período | Empresa | Projeto | Stack principal |
-| --- | --- | --- | --- |
-| 2023 a 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões com impacto financeiro | Cypress, Node.js, Postman, Kafka |
-| 2022 a 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras, limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
-| 2022 | **Aquiris** | Testes de **Horizon Chase 2** no ecossistema Apple | Unreal Engine, TestRail |
-| 2021 | **Lojas Renner** *(via Datum)* | Operação omnichannel entre e-commerce, logística e lojas físicas | Rest Assured, Java, Android |
-| 2020 a 2021 | **NTConsult** | Portal internacional de transparência governamental, com atuação em espanhol | Selenium, RestSharp, C# |
-| 2020 | **GVDASA** | Sistema acadêmico com fluxos de notas, rematrícula e documentos | Selenium, C# |
-| 2019 a 2020 | **Instituto SENAI** | Projetos experimentais relacionados a logística e automação | Cypress, BDD |
+Ao longo da minha carreira, trabalhei com produtos de diferentes segmentos e níveis de criticidade. Essas experiências me permitiram atuar tanto na execução e automação de testes quanto na investigação de problemas, análise de regras de negócio e colaboração com diferentes áreas.
 
-> Consulte as responsabilidades e entregas de cada atuação no meu [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
+### Grupo Casas Bahia · 2023–2026
+
+Atuação em sistemas internos de jornada e cálculo de comissões, com regras de negócio de impacto financeiro.
+
+**Principais tecnologias:** Cypress · Node.js · Postman · Kafka
+
+### Banco Fibra · 2022–2023
+
+Testes de fluxos financeiros envolvendo transferências, limites transacionais e processos de autorização em múltiplos níveis.
+
+**Principais tecnologias:** Selenium WebDriver · C# · Azure DevOps
+
+### Aquiris · 2022
+
+QA de **Horizon Chase 2** durante o período pré-lançamento, com testes em diferentes dispositivos do ecossistema Apple.
+
+**Principais tecnologias:** Unreal Engine · TestRail · iOS · macOS · tvOS
+
+### Lojas Renner · 2021
+
+Projeto omnichannel envolvendo a jornada do pedido entre e-commerce, integrações, logística e aplicação Android utilizada nas lojas.
+
+**Principais tecnologias:** Rest Assured · Java · Android · Azure DevOps
+
+### NTConsult · 2020–2021
+
+Projeto internacional de transparência governamental, envolvendo aplicações Web, APIs e banco de dados, com atuação profissional em espanhol.
+
+**Principais tecnologias:** Selenium WebDriver · RestSharp · C# · SQL Server
+
+### GVDASA · 2020
+
+Testes de sistemas acadêmicos e automação de fluxos utilizados por alunos e instituições de ensino.
+
+**Principais tecnologias:** Selenium WebDriver · C#
+
+### Instituto SENAI de Inovação · 2019–2020
+
+Início da minha trajetória profissional em QA, atuando em projetos experimentais relacionados a tecnologia, indústria e logística.
+
+**Principais tecnologias:** Cypress · BDD
+
+> Quer conhecer mais detalhes sobre cada experiência?
+> Veja minha [trajetória completa no LinkedIn →](https://www.linkedin.com/in/gabrielaambos/)
 
 ---
 

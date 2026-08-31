@@ -140,17 +140,52 @@ The material can be used as a starting point and adapted to the characteristics 
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Professional experience
 
-| Period | Company | Project | Main stack |
-| --- | --- | --- | --- |
-| 2023 to 2026 | **Grupo Casas Bahia** | Workforce scheduling and commission calculation systems with financial impact | Cypress, Node.js, Postman, Kafka |
-| 2022 to 2023 | **Banco Fibra** *(via Meta)* | Financial transfers, transaction limits and multi-level authorization | Selenium, C#, Azure DevOps |
-| 2022 | **Aquiris** | Testing of **Horizon Chase 2** across the Apple ecosystem | Unreal Engine, TestRail |
-| 2021 | **Lojas Renner** *(via Datum)* | Omnichannel operation across e-commerce, logistics and physical stores | Rest Assured, Java, Android |
-| 2020 to 2021 | **NTConsult** | International government transparency portal, working in Spanish | Selenium, RestSharp, C# |
-| 2020 | **GVDASA** | Academic system with grades, re-enrollment and document flows | Selenium, C# |
-| 2019 to 2020 | **SENAI Institute** | Experimental projects related to logistics and automation | Cypress, BDD |
+Throughout my career, I have worked with products from different segments and levels of criticality. These experiences allowed me to work on test execution and automation as well as on investigating problems, analyzing business rules and collaborating with different areas.
 
-> See the responsibilities and deliverables of each role on my [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US).
+### Grupo Casas Bahia · 2023–2026
+
+Work on internal workforce scheduling and commission calculation systems, with business rules that carry financial impact.
+
+**Main technologies:** Cypress · Node.js · Postman · Kafka
+
+### Banco Fibra · 2022–2023
+
+Testing of financial flows involving transfers, transaction limits and multi-level authorization processes.
+
+**Main technologies:** Selenium WebDriver · C# · Azure DevOps
+
+### Aquiris · 2022
+
+QA for **Horizon Chase 2** during the pre-launch period, testing across different devices in the Apple ecosystem.
+
+**Main technologies:** Unreal Engine · TestRail · iOS · macOS · tvOS
+
+### Lojas Renner · 2021
+
+Omnichannel project covering the order journey across e-commerce, integrations, logistics and the Android application used in stores.
+
+**Main technologies:** Rest Assured · Java · Android · Azure DevOps
+
+### NTConsult · 2020–2021
+
+International government transparency project involving Web applications, APIs and databases, working professionally in Spanish.
+
+**Main technologies:** Selenium WebDriver · RestSharp · C# · SQL Server
+
+### GVDASA · 2020
+
+Testing of academic systems and automation of flows used by students and educational institutions.
+
+**Main technologies:** Selenium WebDriver · C#
+
+### SENAI Institute of Innovation · 2019–2020
+
+The start of my professional career in QA, working on experimental projects related to technology, industry and logistics.
+
+**Main technologies:** Cypress · BDD
+
+> Want to know more about each experience?
+> See my [full career history on LinkedIn →](https://www.linkedin.com/in/gabrielaambos/?locale=en-US)
 
 ---
 
