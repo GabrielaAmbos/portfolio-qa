@@ -124,11 +124,17 @@ Além dos projetos principais, mantenho repositórios voltados ao estudo e à pr
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Documentação e artefatos de QA
 
-Qualidade vai além do código. Este material demonstra minha experiência com planejamento, análise de riscos e organização do processo de testes.
+Nem todo trabalho de QA termina em código.
 
-| Artefato | Descrição |
-| --- | --- |
-| [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura de plano de testes com objetivos, escopo, tipos de teste, ambiente, riscos, critérios e cronograma |
+Planejamento, riscos, critérios e rastreabilidade também fazem parte de uma estratégia de qualidade bem estruturada. Nesta seção, disponibilizo alguns artefatos que representam essa parte do processo.
+
+### Template de Plano de Testes
+
+Modelo de plano de testes contendo objetivos, escopo, estratégia, tipos de teste, ambiente, riscos, critérios e cronograma.
+
+O material pode ser utilizado como ponto de partida e adaptado de acordo com as características e necessidades de cada projeto.
+
+[Ver no GitHub →](https://github.com/GabrielaAmbos/plano-de-teste)
 
 ---
 

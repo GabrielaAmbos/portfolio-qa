@@ -124,11 +124,17 @@ Besides the main projects, I maintain repositories dedicated to studying and pra
 
 ## <img src="./icons/cat.svg" width="30" height="30"> QA documentation and artifacts
 
-Quality goes beyond code. This material demonstrates my experience with planning, risk analysis and organization of the testing process.
+Not every QA task ends in code.
 
-| Artifact | Description |
-| --- | --- |
-| [Test Plan Template](https://github.com/GabrielaAmbos/plano-de-teste) | Test plan structure with objectives, scope, test types, environment, risks, criteria and schedule |
+Planning, risks, criteria and traceability are also part of a well-structured quality strategy. In this section I share some artifacts that represent this part of the process.
+
+### Test Plan Template
+
+Test plan template containing objectives, scope, strategy, test types, environment, risks, criteria and schedule.
+
+The material can be used as a starting point and adapted to the characteristics and needs of each project.
+
+[View on GitHub →](https://github.com/GabrielaAmbos/plano-de-teste)
 
 ---
 
