@@ -46,7 +46,7 @@ Gosto de enxergar qualidade além da interface. Meu trabalho envolve entender re
 
 ---
 
-## <img src="./icons/cat.svg" width="30" height="30"> Projetos em destaque
+## <img src="./icons/cat.svg" width="30" height="30"> Projetos de automação
 
 Aqui estão alguns projetos que desenvolvi para praticar e demonstrar diferentes abordagens de automação de testes, desde APIs até jornadas Web E2E.
 
@@ -108,7 +108,7 @@ Além dos projetos principais, mantenho repositórios voltados ao estudo e à pr
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Automação da criação e consulta de usuários em uma API REST | Java · Rest Assured |
+| [Reqres API](https://github.com/GabrielaAmbos/automacao-reqres) | Automação da criação e consulta de usuários em uma API REST | Java · Rest Assured |
 | [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Testes automatizados de uma API de e-commerce | C# · RestSharp |
 
 ### Outros frameworks
@@ -122,19 +122,101 @@ Além dos projetos principais, mantenho repositórios voltados ao estudo e à pr
 
 ---
 
+## <img src="./icons/cat.svg" width="30" height="30"> Game QA
+
+Além de aplicações Web e APIs, também tenho experiência com Qualidade de Software aplicada a jogos, atuando em diferentes etapas do desenvolvimento e em múltiplas plataformas.
+
+Meu trabalho em Game QA envolve principalmente testes exploratórios e regressivos, validação de builds, investigação e documentação de defeitos, compatibilidade entre plataformas e avaliação da experiência do jogador.
+
+### [Horizon Chase 2](https://www.horizonchase2.com/) · Aquiris
+
+**QA Analyst · Pré-lançamento**
+
+Participei da garantia da qualidade de Horizon Chase 2 durante seu período de desenvolvimento anterior ao lançamento, trabalhando em um ambiente multidisciplinar junto a desenvolvimento, game design, arte e produção.
+
+- Testes funcionais, exploratórios, regressivos e de compatibilidade
+- Validação contínua de novas builds e reteste de correções
+- Testes em iPhone, iPad, Mac Mini e Apple TV
+- Verificação da consistência da experiência entre iOS, macOS e tvOS
+- Criação e manutenção de planos, casos e cenários no TestRail
+- Registro e acompanhamento de defeitos no ClickUp
+- Produção de relatórios técnicos em inglês, contendo passos de reprodução, evidências, ambiente, severidade e impacto no jogador
+- Testes em diferentes configurações de hardware e sistema operacional
+
+**Ferramentas e plataformas:** Unreal Engine · TestRail · ClickUp · iOS · macOS · tvOS · Scrum
+
+### [V-Monsters](https://vmonsters.com/) · RedStudios
+
+**Game QA Tester · Part-time**
+
+Atuo eventualmente como Alpha/Beta Tester nos projetos da franquia V-Monsters, realizando validações práticas das builds durante diferentes estágios de desenvolvimento.
+
+Diferentemente das minhas experiências tradicionais de QA, aqui minha atuação é mais focada na experiência direta com o produto: explorar o jogo, identificar comportamentos inesperados, reportar problemas e validar correções.
+
+<details>
+<summary><b>Projetos da franquia</b></summary>
+
+**V-Monsters Mobile** — jogo mobile de coleção, treinamento e evolução de monstros. *Android*
+
+- Testes exploratórios
+- Testes regressivos após novas versões e correções
+- Validação das principais jornadas do jogador
+- Testes end-to-end
+- Identificação e reporte de defeitos
+- Reteste de correções
+- Sugestões relacionadas a usabilidade e experiência do jogador
+
+**V-Monsters Digital Farm** — projeto com foco em uma experiência de criação e interação com monstros. *PC / Steam*
+
+- Testes exploratórios das builds
+- Regressão de funcionalidades após alterações
+- Testes das principais jornadas do jogo
+- Identificação e acompanhamento de defeitos
+- Avaliação de comportamentos que pudessem prejudicar a experiência ou progressão do jogador
+- Sugestões de usabilidade durante as sessões de teste
+
+**V-Monsters Forgotten Link** — novo projeto da franquia atualmente em desenvolvimento. *PC / Steam*
+
+- Alpha testing
+- Testes exploratórios
+- Regressão
+- Identificação de comportamentos inesperados
+- Reporte de defeitos
+- Reteste após correções
+- Feedback de usabilidade e experiência do jogador
+
+Como o projeto ainda está em desenvolvimento, minha participação ocorre de maneira pontual, acompanhando a evolução das builds.
+
+</details>
+
+### O que testo em jogos
+
+| Tipo | O que envolve |
+| --- | --- |
+| **Funcionalidade** | Menus, controles, progressão, interações, estados do jogo e comportamentos esperados |
+| **Exploratório** | Uso do jogo além do caminho esperado para encontrar situações não previstas |
+| **Regressão** | Validação de funcionalidades existentes após correções ou novas implementações |
+| **Compatibilidade** | Comportamentos específicos entre dispositivos e plataformas |
+| **Usabilidade** | Fluxos confusos, feedback insuficiente e outros pontos que afetem a experiência |
+| **Defeitos** | Reprodução, evidências, contexto da falha, impacto e reteste após correção |
+
+---
+
 ## <img src="./icons/cat.svg" width="30" height="30"> Documentação e artefatos de QA
 
-Nem todo trabalho de QA termina em código.
+Automação é apenas uma parte do processo de qualidade. Ao longo da minha carreira, também trabalhei com planejamento, análise de requisitos, casos de teste, BDD, gestão de riscos, rastreabilidade e documentação de defeitos.
 
-Planejamento, riscos, critérios e rastreabilidade também fazem parte de uma estratégia de qualidade bem estruturada. Nesta seção, disponibilizo alguns artefatos que representam essa parte do processo.
+Os exemplos abaixo utilizam contextos fictícios ou dados públicos para demonstrar como estruturo esses artefatos sem expor informações confidenciais dos projetos em que trabalhei.
 
-### Template de Plano de Testes
+| Artefato | Descrição | Demonstra |
+| --- | --- | --- |
+| [Plano de Testes](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/plano-de-teste.md) | Objetivo, escopo, riscos, tipos de teste, ambiente, critérios de entrada e saída e planejamento das execuções | Test Planning · Risk Analysis · Test Strategy |
+| [Caso de Teste](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste.md) | Requisitos e regras de negócio em casos claros e rastreáveis, com pré-condições, massa de dados, passos e resultado esperado | Test Design · Functional Testing · Traceability |
+| [Cenários BDD / Gherkin](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste-bdd.md) | Regras de negócio em cenários Given/When/Then, compreensíveis para QA, desenvolvimento e negócio | BDD · Gherkin · Acceptance Criteria |
+| [Relatório de Bug](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-bug.md) | Ambiente, passos, resultado atual e esperado, severidade e evidências para permitir reprodução e priorização | Defect Management · Troubleshooting · Communication |
+| [Matriz de Rastreabilidade](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/matriz-rastreabilidade.md) | Relação entre requisito, critério de aceite, caso de teste, execução e defeito | Traceability · Test Coverage · Requirements Analysis |
 
-Modelo de plano de testes contendo objetivos, escopo, estratégia, tipos de teste, ambiente, riscos, critérios e cronograma.
-
-O material pode ser utilizado como ponto de partida e adaptado de acordo com as características e necessidades de cada projeto.
-
-[Ver no GitHub →](https://github.com/GabrielaAmbos/plano-de-teste)
+Estes e outros templates — checklists, charter exploratório, plano de automação e documentos de processo — estão reunidos no repositório [qa-templates](https://github.com/GabrielaAmbos/qa-templates).
 
 ---
 

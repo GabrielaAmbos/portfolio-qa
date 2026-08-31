@@ -30,7 +30,9 @@
   <div class="wrap">
     <nav>
       <a href="#about">About</a>
-      <a href="#projects">Projects</a>
+      <a href="#projects">Automation</a>
+      <a href="#game-qa">Game QA</a>
+      <a href="#documentation">Artifacts</a>
       <a href="#experience">Experience</a>
       <a href="#skills">Skills</a>
       <a href="#education">Education</a>
@@ -84,7 +86,7 @@
 
 <section id="projects">
   <div class="wrap">
-    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Featured projects</h2>
+    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Automation projects</h2>
     <p class="lead">Here are some of the projects I built to practice and demonstrate different test automation approaches, from APIs to Web E2E journeys.</p>
 
     <div class="projects">
@@ -129,7 +131,7 @@
 
         <p class="subhead">API automation</p>
         <div class="table-scroll"><table>
-          <tr><td><a href="https://github.com/GabrielaAmbos/desafio-automacao-reqres">Reqres API</a></td><td>Automation of user creation and lookup in a REST API</td><td>Java &middot; Rest Assured</td></tr>
+          <tr><td><a href="https://github.com/GabrielaAmbos/automacao-reqres">Reqres API</a></td><td>Automation of user creation and lookup in a REST API</td><td>Java &middot; Rest Assured</td></tr>
           <tr><td><a href="https://github.com/GabrielaAmbos/desafio-automacao-serve-rest">ServeRest</a></td><td>Automated tests for an e-commerce API</td><td>C# &middot; RestSharp</td></tr>
         </table></div>
 
@@ -143,17 +145,141 @@
   </div>
 </section>
 
+<section id="game-qa">
+  <div class="wrap">
+    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Game QA</h2>
+    <p class="lead">Beyond Web applications and APIs, I also have experience with software quality applied to games, working at different stages of development and across multiple platforms.</p>
+    <p class="lead">My work in Game QA mainly involves exploratory and regression testing, build validation, defect investigation and documentation, cross-platform compatibility and evaluation of the player experience.</p>
+
+    <div class="projects">
+      <article class="card">
+        <h3>Horizon Chase 2 &middot; Aquiris</h3>
+        <p class="role">QA Analyst &middot; Pre-launch</p>
+        <p>I worked on quality assurance for <a href="https://www.horizonchase2.com/">Horizon Chase 2</a> during its pre-launch development period, in a multidisciplinary environment alongside development, game design, art and production.</p>
+        <p class="subhead">My work involved</p>
+        <ul>
+          <li>Functional, exploratory, regression and compatibility testing</li>
+          <li>Continuous validation of new builds and retesting of fixes</li>
+          <li>Testing on iPhone, iPad, Mac Mini and Apple TV</li>
+          <li>Verification of experience consistency across iOS, macOS and tvOS</li>
+          <li>Creation and maintenance of plans, cases and scenarios in TestRail</li>
+          <li>Logging and tracking of defects in ClickUp</li>
+          <li>Production of technical reports in English, containing reproduction steps, evidence, environment, severity and player impact</li>
+          <li>Testing across different hardware and operating system configurations</li>
+        </ul>
+        <div class="tags"><span class="tag">Unreal Engine</span><span class="tag">TestRail</span><span class="tag">ClickUp</span><span class="tag">iOS</span><span class="tag">macOS</span><span class="tag">tvOS</span><span class="tag">Scrum</span></div>
+        <p class="note">This experience developed a stronger grasp of exploratory testing, user experience, compatibility and defect communication in a product that had to work consistently across different devices.</p>
+      </article>
+
+      <article class="card">
+        <h3>V-Monsters &middot; RedStudios</h3>
+        <p class="role">Game QA Tester &middot; Part-time</p>
+        <p>I work occasionally as an Alpha/Beta tester on projects from the <a href="https://vmonsters.com/">V-Monsters</a> franchise, carrying out hands-on validation of builds at different stages of development.</p>
+        <p>Unlike my traditional QA experience, here my work is more focused on direct experience with the product: exploring the game, identifying unexpected behavior, reporting problems and validating fixes.</p>
+
+        <div class="subgame">
+          <h4>V-Monsters Mobile</h4>
+          <p>Mobile game about collecting, training and evolving monsters.</p>
+          <ul>
+          <li>Exploratory testing</li>
+          <li>Regression testing after new versions and fixes</li>
+          <li>Validation of the main player journeys</li>
+          <li>End-to-end testing</li>
+          <li>Identification and reporting of defects</li>
+          <li>Retesting of fixes</li>
+          <li>Suggestions related to usability and player experience</li>
+          </ul>
+          <div class="tags"><span class="tag">Android</span></div>
+        </div>
+
+        <div class="subgame">
+          <h4>V-Monsters Digital Farm</h4>
+          <p>Franchise project focused on an experience of raising and interacting with monsters.</p>
+          <ul>
+          <li>Exploratory testing of builds</li>
+          <li>Regression of features after changes</li>
+          <li>Testing of the game's main journeys</li>
+          <li>Identification and tracking of defects</li>
+          <li>Evaluation of behaviors that could harm the player's experience or progression</li>
+          <li>Usability suggestions during test sessions</li>
+          </ul>
+          <div class="tags"><span class="tag">PC / Steam</span></div>
+        </div>
+
+        <div class="subgame">
+          <h4>V-Monsters Forgotten Link</h4>
+          <p>New franchise project currently in development. I run periodic tests of the demo, mainly when new versions are available for validation.</p>
+          <ul>
+          <li>Alpha testing</li>
+          <li>Exploratory testing</li>
+          <li>Regression</li>
+          <li>Identification of unexpected behavior</li>
+          <li>Defect reporting</li>
+          <li>Retesting after fixes</li>
+          <li>Usability and player experience feedback</li>
+          </ul>
+          <div class="tags"><span class="tag">PC / Steam</span></div>
+          <p class="note">As the project is still in development, my participation happens on an occasional basis, following the evolution of the builds.</p>
+        </div>
+      </article>
+    </div>
+
+    <p class="subhead">What I test in games</p>
+    <div class="qa-grid">
+      <div class="card"><h4>Functionality</h4><p>Menus, controls, progression, interactions, game states and expected behaviors.</p></div>
+      <div class="card"><h4>Exploratory</h4><p>Using the game beyond the expected path to find situations that were not anticipated.</p></div>
+      <div class="card"><h4>Regression</h4><p>Validation of existing features after fixes or new implementations.</p></div>
+      <div class="card"><h4>Compatibility</h4><p>Behaviors specific to devices and platforms.</p></div>
+      <div class="card"><h4>Usability</h4><p>Confusing flows, insufficient feedback, difficulty of understanding and other points that affect the experience.</p></div>
+      <div class="card"><h4>Defects</h4><p>Reproduction, evidence, failure context, impact and retesting after the fix.</p></div>
+    </div>
+  </div>
+</section>
+
 <section id="documentation">
   <div class="wrap">
     <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> QA documentation and artifacts</h2>
-    <p class="lead">Not every QA task ends in code.</p>
-    <p class="lead">Planning, risks, criteria and traceability are also part of a well-structured quality strategy. In this section I share some artifacts that represent this part of the process.</p>
-    <div class="card">
-      <h3>Test Plan Template</h3>
-      <p>Test plan template containing objectives, scope, strategy, test types, environment, risks, criteria and schedule.</p>
-      <p>The material can be used as a starting point and adapted to the characteristics and needs of each project.</p>
-      <a class="card-link" href="https://github.com/GabrielaAmbos/plano-de-teste">View on GitHub &rarr;</a>
+    <p class="lead">Automation is only one part of the quality process. Throughout my career, I have also worked with planning, requirements analysis, test cases, BDD, risk management, traceability and defect documentation.</p>
+    <p class="lead">The examples below use fictional contexts or public data to demonstrate how I structure these artifacts without exposing confidential information from the projects I have worked on.</p>
+
+    <div class="projects">
+      <article class="card">
+        <h3>Test Plan</h3>
+        <p>Structure used to organize the quality strategy for a delivery, including objective, scope, risks, test types, environment, entry and exit criteria and execution planning.</p>
+        <div class="tags"><span class="tag">Test Planning</span><span class="tag">Risk Analysis</span><span class="tag">Test Strategy</span></div>
+        <a class="card-link" href="https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/plano-de-teste.md">View on GitHub &rarr;</a>
+      </article>
+
+      <article class="card">
+        <h3>Test Case</h3>
+        <p>Structure for turning requirements and business rules into clear, reproducible and traceable test cases, with preconditions, test data, steps, expected result and status.</p>
+        <div class="tags"><span class="tag">Test Design</span><span class="tag">Functional Testing</span><span class="tag">Traceability</span></div>
+        <a class="card-link" href="https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste.md">View on GitHub &rarr;</a>
+      </article>
+
+      <article class="card">
+        <h3>BDD / Gherkin Scenarios</h3>
+        <p>Business rules turned into Given/When/Then scenarios, keeping the language understandable for QA, development and business.</p>
+        <div class="tags"><span class="tag">BDD</span><span class="tag">Gherkin</span><span class="tag">Acceptance Criteria</span></div>
+        <a class="card-link" href="https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste-bdd.md">View on GitHub &rarr;</a>
+      </article>
+
+      <article class="card">
+        <h3>Bug Report</h3>
+        <p>Defect documentation with enough information to allow reproduction, investigation and prioritization by the team: environment, steps, actual and expected result, severity and evidence.</p>
+        <div class="tags"><span class="tag">Defect Management</span><span class="tag">Troubleshooting</span><span class="tag">Communication</span></div>
+        <a class="card-link" href="https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-bug.md">View on GitHub &rarr;</a>
+      </article>
+
+      <article class="card">
+        <h3>Traceability Matrix</h3>
+        <p>Relationship between requirement, acceptance criteria, test case, execution and defect, used to track coverage and evidence what has been validated.</p>
+        <div class="tags"><span class="tag">Traceability</span><span class="tag">Test Coverage</span><span class="tag">Requirements Analysis</span></div>
+        <a class="card-link" href="https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/matriz-rastreabilidade.md">View on GitHub &rarr;</a>
+      </article>
     </div>
+
+    <p class="lead" style="margin-top:20px;font-size:.92rem">These and other templates &mdash; checklists, exploratory charter, automation plan and process documents &mdash; are gathered in the <a href="https://github.com/GabrielaAmbos/qa-templates">qa-templates</a> repository.</p>
   </div>
 </section>
 
