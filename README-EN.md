@@ -38,7 +38,7 @@ I like to look at quality beyond the interface. My work involves understanding r
 
 - <img src="./icons/paw.svg" width="16" height="16"> **Test strategy:** planning, requirements analysis, risk-based testing and defect management
 - <img src="./icons/paw.svg" width="16" height="16"> **Web and E2E automation:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java and C#
-- <img src="./icons/paw.svg" width="16" height="16"> **[BDD](https://cucumber.io/docs/bdd/):** writing scenarios in Gherkin to bring business, development and QA closer together
+- <img src="./icons/paw.svg" width="16" height="16"> **BDD:** writing scenarios in Gherkin to bring business, development and QA closer together
 - <img src="./icons/paw.svg" width="16" height="16"> **API testing:** REST and SOAP with Postman, SoapUI, Rest Assured and RestSharp
 - <img src="./icons/paw.svg" width="16" height="16"> **Data and integrations:** SQL, SQL Server, DBeaver, Kafka and log analysis
 - <img src="./icons/paw.svg" width="16" height="16"> **Mobile and multi-platform:** Android, iOS, macOS, tvOS and game testing with Unreal Engine
