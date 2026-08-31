@@ -48,47 +48,45 @@ I like to look at quality beyond the interface. My work involves understanding r
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Featured projects
 
-These projects represent the main areas of my portfolio: API automation, E2E testing, different languages and mobile automation.
+Here are some of the projects I built to practise and demonstrate different test automation approaches, from APIs to Web E2E journeys.
 
-### Fake Store API — API test automation
+### Fake Store API · API automation
 
-Personal project built with **Cypress, JavaScript and Node.js**, structured to validate the public endpoints of the Fake Store API.
+Project built to exercise an API automation suite with **Cypress, JavaScript and Node.js**, covering different resources and behaviours of the Fake Store API.
 
-- 40 automated tests covering products, carts, users and authentication
-- Positive and negative scenarios
-- Contract, response and authentication validation
-- GET, POST, PUT, PATCH and DELETE operations
-- Custom commands, fixtures and organization by resource
-- Separation between smoke and regression tests using tags
-- ESLint, Mochawesome reports and GitHub Actions workflows
-- Technical documentation in Portuguese and English
+The suite has 40 automated tests, including positive and negative scenarios for products, carts, users and authentication. I also implemented contract and response validations, custom commands, fixtures, separation of smoke and regression tests and report generation.
 
-[View project on GitHub](https://github.com/GabrielaAmbos/automacao-fake-store-api)
+The project uses GitHub Actions for automated execution and has documentation in Portuguese and English.
+
+**Stack:** Cypress · JavaScript · Node.js · GitHub Actions
+
+[View project on GitHub →](https://github.com/GabrielaAmbos/automacao-fake-store-api)
 
 ---
 
-### Trivago — Web E2E automation
+### Trivago · Web E2E automation
 
-Personal end-to-end automation project built with **Java, Selenium WebDriver, Cucumber and Maven**.
+End-to-end automation project built on a real hotel search environment, using **Java, Selenium WebDriver, Cucumber and Maven**.
 
-- BDD scenarios written in Gherkin
-- Architecture based on the Page Object Model
-- Tests for hotel search, sorting and filtering
-- Positive and negative scenarios
-- Headless execution
-- Support for Chrome, Firefox and Edge
-- Automatic screenshots on failure
-- Validations designed for dynamic data from a real environment
+The scenarios were written in BDD/Gherkin and organised using the Page Object Model, with tests for search, sorting and filtering. The automation also covers headless execution, different browsers and automatic screenshot capture when a run fails.
 
-[View project on GitHub](https://github.com/GabrielaAmbos/automacao-trivago)
+The main challenge of this project was working with a real application and its dynamic data, keeping the validations as stable as possible.
+
+**Stack:** Java · Selenium · Cucumber · Maven
+
+[View project on GitHub →](https://github.com/GabrielaAmbos/automacao-trivago)
 
 ---
 
-### Go Rest API — automation with RestSharp
+### Go Rest API · Automation with RestSharp
 
-REST API automation project built with **C# and RestSharp**, focused on validating contracts, responses and HTTP status codes.
+REST API automation project built with **C# and RestSharp**, focused on validating responses, contracts and HTTP status codes.
 
-[View project on GitHub](https://github.com/GabrielaAmbos/automacao-go-rest-api)
+The goal was to explore an API testing approach using the C# ecosystem and to organise the tests in a simple and maintainable way.
+
+**Stack:** C# · RestSharp
+
+[View project on GitHub →](https://github.com/GabrielaAmbos/automacao-go-rest-api)
 
 
 ---
