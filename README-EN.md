@@ -30,7 +30,7 @@
 
 I am a QA Engineer with **over 6 years of experience** in Software Quality, working on products in the **finance, retail, e-commerce, education and gaming** industries.
 
-Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) and [Aquiris](https://www.aquiris.com.br/), where I also worked on the validation of **Horizon Chase 2** in the Apple ecosystem.
+Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/), [Aquiris](https://www.aquiris.com.br/) and RedStudios, including the multi-platform validation of **Horizon Chase 2** and Alpha/Beta testing of projects from the **V-Monsters** franchise.
 
 I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.
 
