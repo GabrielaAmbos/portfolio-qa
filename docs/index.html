@@ -85,43 +85,31 @@
 <section id="projetos">
   <div class="wrap">
     <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Projetos em destaque</h2>
-    <p class="lead">Estes projetos representam as principais áreas do meu portfólio: automação de API, testes E2E, diferentes linguagens e automação mobile.</p>
+    <p class="lead">Aqui estão alguns projetos que desenvolvi para praticar e demonstrar diferentes abordagens de automação de testes, desde APIs até jornadas Web E2E.</p>
 
     <div class="projects">
       <article class="card">
-        <h3>Fake Store API &middot; automação de testes de API</h3>
-        <p>Projeto autoral estruturado para validar os endpoints públicos da Fake Store API.</p>
-        <ul>
-          <li>40 testes automatizados cobrindo produtos, carrinhos, usuários e autenticação</li>
-          <li>Cenários positivos e negativos, com validação de contratos e respostas</li>
-          <li>Operações GET, POST, PUT, PATCH e DELETE</li>
-          <li>Custom commands, fixtures e organização por recursos</li>
-          <li>Separação entre testes smoke e regressivos por tags</li>
-          <li>ESLint, relatórios Mochawesome e workflows com GitHub Actions</li>
-          <li>Documentação técnica em português e inglês</li>
-        </ul>
+        <h3>Fake Store API &middot; Automação de API</h3>
+        <p>Projeto desenvolvido para exercitar uma suíte de automação de APIs com Cypress, JavaScript e Node.js, cobrindo diferentes recursos e comportamentos da Fake Store API.</p>
+        <p>A suíte possui 40 testes automatizados, incluindo cenários positivos e negativos para produtos, carrinhos, usuários e autenticação. Também implementei validações de contratos e respostas, custom commands, fixtures, separação de testes smoke e regressivos e geração de relatórios.</p>
+        <p>O projeto utiliza GitHub Actions para execução automatizada e possui documentação em português e inglês.</p>
         <div class="tags"><span class="tag">Cypress</span><span class="tag">JavaScript</span><span class="tag">Node.js</span><span class="tag">GitHub Actions</span></div>
         <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-fake-store-api">Ver projeto no GitHub &rarr;</a>
       </article>
 
       <article class="card">
-        <h3>Trivago &middot; automação Web E2E</h3>
-        <p>Projeto autoral de automação end-to-end em um site real de reservas.</p>
-        <ul>
-          <li>Cenários BDD escritos em Gherkin</li>
-          <li>Arquitetura baseada em Page Object Model</li>
-          <li>Testes de busca, ordenação e filtros de hotéis</li>
-          <li>Execução em modo headless, com suporte a Chrome, Firefox e Edge</li>
-          <li>Screenshots automáticos em caso de falha</li>
-          <li>Validações preparadas para dados dinâmicos de um ambiente real</li>
-        </ul>
+        <h3>Trivago &middot; Automação Web E2E</h3>
+        <p>Projeto de automação end-to-end criado sobre um ambiente real de busca de hotéis, utilizando Java, Selenium WebDriver, Cucumber e Maven.</p>
+        <p>Os cenários foram escritos em BDD/Gherkin e organizados utilizando Page Object Model, com testes para busca, ordenação e filtros. A automação também contempla execução headless, diferentes navegadores e captura automática de screenshots quando uma execução falha.</p>
+        <p>O principal desafio deste projeto foi trabalhar com uma aplicação real e seus dados dinâmicos, mantendo as validações o mais estáveis possível.</p>
         <div class="tags"><span class="tag">Java</span><span class="tag">Selenium</span><span class="tag">Cucumber</span><span class="tag">Maven</span></div>
         <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-trivago">Ver projeto no GitHub &rarr;</a>
       </article>
 
       <article class="card">
-        <h3>Go Rest API &middot; automação com RestSharp</h3>
-        <p>Automação de API REST com foco na validação de contratos, respostas e status HTTP.</p>
+        <h3>Go Rest API &middot; Automação com RestSharp</h3>
+        <p>Projeto de automação de API REST desenvolvido com C# e RestSharp, com foco na validação de respostas, contratos e status HTTP.</p>
+        <p>O objetivo foi explorar uma abordagem de API Testing utilizando o ecossistema C# e organizar os testes de maneira simples e de fácil manutenção.</p>
         <div class="tags"><span class="tag">C#</span><span class="tag">RestSharp</span></div>
         <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-go-rest-api">Ver projeto no GitHub &rarr;</a>
       </article>

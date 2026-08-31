@@ -48,47 +48,45 @@ Gosto de enxergar qualidade além da interface. Meu trabalho envolve entender re
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Projetos em destaque
 
-Estes projetos representam as principais áreas do meu portfólio: automação de API, testes E2E, diferentes linguagens e automação mobile.
+Aqui estão alguns projetos que desenvolvi para praticar e demonstrar diferentes abordagens de automação de testes, desde APIs até jornadas Web E2E.
 
-### Fake Store API — automação de testes de API
+### Fake Store API · Automação de API
 
-Projeto autoral desenvolvido com **Cypress, JavaScript e Node.js**, estruturado para validar os endpoints públicos da Fake Store API.
+Projeto desenvolvido para exercitar uma suíte de automação de APIs com **Cypress, JavaScript e Node.js**, cobrindo diferentes recursos e comportamentos da Fake Store API.
 
-- 40 testes automatizados cobrindo produtos, carrinhos, usuários e autenticação
-- Cenários positivos e negativos
-- Validação de contratos, respostas e autenticação
-- Operações GET, POST, PUT, PATCH e DELETE
-- Custom commands, fixtures e organização por recursos
-- Separação entre testes smoke e regressivos por tags
-- ESLint, relatórios Mochawesome e workflows com GitHub Actions
-- Documentação técnica em português e inglês
+A suíte possui 40 testes automatizados, incluindo cenários positivos e negativos para produtos, carrinhos, usuários e autenticação. Também implementei validações de contratos e respostas, custom commands, fixtures, separação de testes smoke e regressivos e geração de relatórios.
 
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-fake-store-api)
+O projeto utiliza GitHub Actions para execução automatizada e possui documentação em português e inglês.
+
+**Stack:** Cypress · JavaScript · Node.js · GitHub Actions
+
+[Ver projeto no GitHub →](https://github.com/GabrielaAmbos/automacao-fake-store-api)
 
 ---
 
-### Trivago — automação Web E2E
+### Trivago · Automação Web E2E
 
-Projeto autoral de automação end-to-end desenvolvido com **Java, Selenium WebDriver, Cucumber e Maven**.
+Projeto de automação end-to-end criado sobre um ambiente real de busca de hotéis, utilizando **Java, Selenium WebDriver, Cucumber e Maven**.
 
-- Cenários BDD escritos em Gherkin
-- Arquitetura baseada em Page Object Model
-- Testes de busca, ordenação e filtros de hotéis
-- Cenários positivos e negativos
-- Execução em modo headless
-- Suporte a Chrome, Firefox e Edge
-- Screenshots automáticos em caso de falha
-- Validações preparadas para dados dinâmicos de um ambiente real
+Os cenários foram escritos em BDD/Gherkin e organizados utilizando Page Object Model, com testes para busca, ordenação e filtros. A automação também contempla execução headless, diferentes navegadores e captura automática de screenshots quando uma execução falha.
 
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-trivago)
+O principal desafio deste projeto foi trabalhar com uma aplicação real e seus dados dinâmicos, mantendo as validações o mais estáveis possível.
+
+**Stack:** Java · Selenium · Cucumber · Maven
+
+[Ver projeto no GitHub →](https://github.com/GabrielaAmbos/automacao-trivago)
 
 ---
 
-### Go Rest API — automação com RestSharp
+### Go Rest API · Automação com RestSharp
 
-Projeto de automação de API REST desenvolvido com **C# e RestSharp**, com foco na validação de contratos, respostas e status HTTP.
+Projeto de automação de API REST desenvolvido com **C# e RestSharp**, com foco na validação de respostas, contratos e status HTTP.
 
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-go-rest-api)
+O objetivo foi explorar uma abordagem de API Testing utilizando o ecossistema C# e organizar os testes de maneira simples e de fácil manutenção.
+
+**Stack:** C# · RestSharp
+
+[Ver projeto no GitHub →](https://github.com/GabrielaAmbos/automacao-go-rest-api)
 
 
 ---
