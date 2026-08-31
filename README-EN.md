@@ -227,14 +227,16 @@ Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Education
 
-- **Associate Degree in Systems Analysis and Development** at UNIASSELVI *(in progress, expected completion in 2027)*
-- **Technical Degree in Information Technology** at Instituto Federal do Rio Grande do Sul — IFRS, Sapucaia Campus, 2013 to 2017
+My education combines technology, software development and continuous learning in Quality.
+
+- **Systems Analysis and Development**<br>UNIASSELVI · In progress · Expected completion in 2027
+- **Technical Degree in Information Technology**<br>Instituto Federal do Rio Grande do Sul — Sapucaia Campus · 2013–2017
 
 **Languages:**
 
-- Portuguese, native
-- English, technical reading and documentation; basic conversation
-- Spanish, technical reading and documentation
+- **Portuguese:** native
+- **English:** technical reading and documentation; basic conversation
+- **Spanish:** technical reading and documentation, with communication experience on an international project
 
 <details>
 <summary><b>Certifications and courses</b></summary>
