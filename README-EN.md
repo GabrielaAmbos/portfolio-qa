@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://gabrielaambos.github.io/portfolio-qa/en.html">
-    <img src="https://img.shields.io/badge/Live_portfolio-BE185D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live portfolio">
+    <img src="https://img.shields.io/badge/Live_portfolio-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live portfolio">
   </a>
   <a href="https://www.linkedin.com/in/gabrielaambos/?locale=en-US">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
