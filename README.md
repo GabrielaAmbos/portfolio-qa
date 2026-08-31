@@ -191,28 +191,24 @@ Início da minha trajetória profissional em QA, atuando em projetos experimenta
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Habilidades técnicas
 
+Ao longo da minha carreira e dos meus projetos de estudo, trabalhei com diferentes ferramentas e abordagens. Procuro escolher a tecnologia de acordo com o problema que precisa ser resolvido, mantendo os testes legíveis, confiáveis e fáceis de evoluir.
+
 ### Experiência profissional
 
 | Categoria | Ferramentas, tecnologias e práticas |
 | --- | --- |
-| **Automação Web e E2E** | Cypress, Selenium WebDriver, Cucumber, BDD e Gherkin |
-| **Testes de API** | Postman, SoapUI, Rest Assured, RestSharp, REST e SOAP |
-| **Linguagens** | JavaScript, Node.js, Java e C# |
-| **Dados e integrações** | SQL Server, DBeaver, SQL e Apache Kafka |
-| **Gestão e rastreabilidade** | Jira, Zephyr, Confluence, Azure DevOps, TestRail e ClickUp |
-| **Versionamento e análise** | Git, GitHub, code review, análise de logs e Chrome DevTools |
-| **Plataformas** | Web, Android, iOS, macOS, tvOS, Unreal Engine e Firebase |
-| **Metodologias** | Scrum, Kanban, testes baseados em risco e gestão de defeitos |
+| **Automação Web e E2E** | Cypress · Selenium WebDriver · Cucumber · BDD · Gherkin |
+| **APIs** | Postman · SoapUI · Rest Assured · RestSharp · REST · SOAP |
+| **Linguagens** | JavaScript · Node.js · Java · C# |
+| **Dados e integrações** | SQL · SQL Server · DBeaver · Apache Kafka |
+| **Gestão e rastreabilidade** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
+| **Versionamento e investigação** | Git · GitHub · Code Review · Análise de logs · Chrome DevTools |
+| **Plataformas** | Web · Android · iOS · macOS · tvOS · Unreal Engine |
+| **Metodologias e práticas** | Scrum · Kanban · Testes baseados em risco · Gestão de defeitos |
 
-### Projetos e estudos
+### Estudos e projetos pessoais
 
-| Categoria | Ferramentas e tecnologias |
-| --- | --- |
-| **Automação mobile** | Appium |
-| **Outros frameworks** | Robot Framework |
-| **Banco de dados** | MongoDB |
-| **Integração contínua** | GitHub Actions |
-| **Ferramentas de apoio** | GitHub Copilot, Rovo, Claude e ChatGPT |
+Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo · Claude · ChatGPT
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
