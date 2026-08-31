@@ -216,6 +216,15 @@ p:last-child { margin-bottom: 0; }
 
 .card-link { font-size: .9rem; font-weight: 600; }
 
+/* Game QA */
+.card .role { margin: -2px 0 12px; color: var(--accent); font-size: .85rem; font-weight: 600; }
+.card h4 { margin: 0 0 6px; font-size: .98rem; font-weight: 650; }
+.card .note { margin: 16px 0 0; padding-top: 13px; border-top: 1px solid var(--border); font-size: .9rem; color: var(--muted); }
+.subgame { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--border); }
+.qa-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); }
+.qa-grid .card { padding: 16px 18px; }
+.qa-grid .card p { margin: 0; }
+
 /* Timeline */
 .timeline { display: grid; gap: 0; }
 

@@ -46,7 +46,7 @@ I like to look at quality beyond the interface. My work involves understanding r
 
 ---
 
-## <img src="./icons/cat.svg" width="30" height="30"> Featured projects
+## <img src="./icons/cat.svg" width="30" height="30"> Automation projects
 
 Here are some of the projects I built to practice and demonstrate different test automation approaches, from APIs to Web E2E journeys.
 
@@ -108,7 +108,7 @@ Besides the main projects, I maintain repositories dedicated to studying and pra
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Automation of user creation and lookup in a REST API | Java · Rest Assured |
+| [Reqres API](https://github.com/GabrielaAmbos/automacao-reqres) | Automation of user creation and lookup in a REST API | Java · Rest Assured |
 | [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automated tests for an e-commerce API | C# · RestSharp |
 
 ### Other frameworks
@@ -122,19 +122,101 @@ Besides the main projects, I maintain repositories dedicated to studying and pra
 
 ---
 
+## <img src="./icons/cat.svg" width="30" height="30"> Game QA
+
+Beyond Web applications and APIs, I also have experience with software quality applied to games, working at different stages of development and across multiple platforms.
+
+My work in Game QA mainly involves exploratory and regression testing, build validation, defect investigation and documentation, cross-platform compatibility and evaluation of the player experience.
+
+### [Horizon Chase 2](https://www.horizonchase2.com/) · Aquiris
+
+**QA Analyst · Pre-launch**
+
+I worked on quality assurance for Horizon Chase 2 during its pre-launch development period, in a multidisciplinary environment alongside development, game design, art and production.
+
+- Functional, exploratory, regression and compatibility testing
+- Continuous validation of new builds and retesting of fixes
+- Testing on iPhone, iPad, Mac Mini and Apple TV
+- Verification of experience consistency across iOS, macOS and tvOS
+- Creation and maintenance of plans, cases and scenarios in TestRail
+- Logging and tracking of defects in ClickUp
+- Production of technical reports in English, containing reproduction steps, evidence, environment, severity and player impact
+- Testing across different hardware and operating system configurations
+
+**Tools and platforms:** Unreal Engine · TestRail · ClickUp · iOS · macOS · tvOS · Scrum
+
+### [V-Monsters](https://vmonsters.com/) · RedStudios
+
+**Game QA Tester · Part-time**
+
+I work occasionally as an Alpha/Beta tester on projects from the V-Monsters franchise, carrying out hands-on validation of builds at different stages of development.
+
+Unlike my traditional QA experience, here my work is more focused on direct experience with the product: exploring the game, identifying unexpected behavior, reporting problems and validating fixes.
+
+<details>
+<summary><b>Franchise projects</b></summary>
+
+**V-Monsters Mobile** — mobile game about collecting, training and evolving monsters. *Android*
+
+- Exploratory testing
+- Regression testing after new versions and fixes
+- Validation of the main player journeys
+- End-to-end testing
+- Identification and reporting of defects
+- Retesting of fixes
+- Suggestions related to usability and player experience
+
+**V-Monsters Digital Farm** — project focused on an experience of raising and interacting with monsters. *PC / Steam*
+
+- Exploratory testing of builds
+- Regression of features after changes
+- Testing of the game's main journeys
+- Identification and tracking of defects
+- Evaluation of behaviors that could harm the player's experience or progression
+- Usability suggestions during test sessions
+
+**V-Monsters Forgotten Link** — new franchise project currently in development. *PC / Steam*
+
+- Alpha testing
+- Exploratory testing
+- Regression
+- Identification of unexpected behavior
+- Defect reporting
+- Retesting after fixes
+- Usability and player experience feedback
+
+As the project is still in development, my participation happens on an occasional basis, following the evolution of the builds.
+
+</details>
+
+### What I test in games
+
+| Type | What it involves |
+| --- | --- |
+| **Functionality** | Menus, controls, progression, interactions, game states and expected behaviors |
+| **Exploratory** | Using the game beyond the expected path to find situations that were not anticipated |
+| **Regression** | Validation of existing features after fixes or new implementations |
+| **Compatibility** | Behaviors specific to devices and platforms |
+| **Usability** | Confusing flows, insufficient feedback and other points that affect the experience |
+| **Defects** | Reproduction, evidence, failure context, impact and retesting after the fix |
+
+---
+
 ## <img src="./icons/cat.svg" width="30" height="30"> QA documentation and artifacts
 
-Not every QA task ends in code.
+Automation is only one part of the quality process. Throughout my career, I have also worked with planning, requirements analysis, test cases, BDD, risk management, traceability and defect documentation.
 
-Planning, risks, criteria and traceability are also part of a well-structured quality strategy. In this section I share some artifacts that represent this part of the process.
+The examples below use fictional contexts or public data to demonstrate how I structure these artifacts without exposing confidential information from the projects I have worked on.
 
-### Test Plan Template
+| Artifact | Description | Demonstrates |
+| --- | --- | --- |
+| [Test Plan](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/plano-de-teste.md) | Objective, scope, risks, test types, environment, entry and exit criteria and execution planning | Test Planning · Risk Analysis · Test Strategy |
+| [Test Case](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste.md) | Requirements and business rules as clear, traceable cases with preconditions, test data, steps and expected result | Test Design · Functional Testing · Traceability |
+| [BDD / Gherkin Scenarios](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste-bdd.md) | Business rules as Given/When/Then scenarios, understandable for QA, development and business | BDD · Gherkin · Acceptance Criteria |
+| [Bug Report](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-bug.md) | Environment, steps, actual and expected result, severity and evidence to allow reproduction and prioritization | Defect Management · Troubleshooting · Communication |
+| [Traceability Matrix](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/matriz-rastreabilidade.md) | Relationship between requirement, acceptance criteria, test case, execution and defect | Traceability · Test Coverage · Requirements Analysis |
 
-Test plan template containing objectives, scope, strategy, test types, environment, risks, criteria and schedule.
-
-The material can be used as a starting point and adapted to the characteristics and needs of each project.
-
-[View on GitHub →](https://github.com/GabrielaAmbos/plano-de-teste)
+These and other templates — checklists, exploratory charter, automation plan and process documents — are gathered in the [qa-templates](https://github.com/GabrielaAmbos/qa-templates) repository.
 
 ---
 
