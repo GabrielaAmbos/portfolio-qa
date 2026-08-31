@@ -94,28 +94,29 @@ The goal was to explore an API testing approach using the C# ecosystem and to or
 <details>
 <summary><b>Other projects and studies</b></summary>
 
+Besides the main projects, I maintain repositories dedicated to studying and practising different automation tools and stacks.
+
 ### Web automation
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Correios Zip Code Search](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Web automation with scenarios written in BDD | C#, Selenium, SpecFlow |
-| [User Registration](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automation of the user registration flow | C#, Selenium |
-| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Web automation of an e-commerce application | Java, Selenium |
+| [Correios Zip Code Search](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automation of Web scenarios written in BDD | C# · Selenium · SpecFlow |
+| [User Registration](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automation of the user registration flow in a Web application | C# · Selenium |
+| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automation of user journeys in an e-commerce application | Java · Selenium |
 
 ### API automation
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Validation of user creation and lookup in a REST API | Java, Rest Assured |
-| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | E-commerce API automation | C#, RestSharp |
+| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Automation of user creation and lookup in a REST API | Java · Rest Assured |
+| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automated tests for an e-commerce API | C# · RestSharp |
 
 ### Other frameworks
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Appium Mobile Automation](https://github.com/GabrielaAmbos/curso-alura-appium) | Android mobile test automation | Java, Appium |
-| [Robot Framework — basic example](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Introductory automation example with Robot Framework | Python, Robot Framework |
-| [Robot Framework — NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Web automation with Robot Framework | Python, Robot Framework |
+| [Appium Mobile Automation](https://github.com/GabrielaAmbos/curso-alura-appium) | Study project focused on automating Android applications | Java · Appium |
+| [Robot Framework](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Introductory Web automation projects using Robot Framework | Python · Robot Framework |
 
 </details>
 
