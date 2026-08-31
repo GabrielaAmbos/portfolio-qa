@@ -267,10 +267,13 @@ My education combines technology, software development and continuous learning i
 
 ## <img src="./icons/cat.svg" width="30" height="30"> Contact
 
-I am open to opportunities and connections in software quality and test automation. Let's talk!
+Do you have an opportunity, a project or simply want to talk about Software Quality?
+
+You can get in touch with me on LinkedIn or by email. I also keep my projects and studies available on GitHub.
 
 - <img src="./icons/paw.svg" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/?locale=en-US)
-- <img src="./icons/paw.svg" width="16" height="16"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [Email](mailto:gabrielaambos15@gmail.com)
+- <img src="./icons/paw.svg" width="16" height="16"> [GitHub](https://github.com/GabrielaAmbos)
 - <img src="./icons/paw.svg" width="16" height="16"> [Linktree](https://linktr.ee/gabrielaambos)
 
 
