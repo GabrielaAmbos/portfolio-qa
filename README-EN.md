@@ -215,6 +215,7 @@ The examples below use fictional contexts or public data to demonstrate how I st
 | [BDD / Gherkin Scenarios](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/caso-de-teste-bdd.md) | Business rules as Given/When/Then scenarios, understandable for QA, development and business | BDD · Gherkin · Acceptance Criteria |
 | [Bug Report](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-bug.md) | Environment, steps, actual and expected result, severity and evidence to allow reproduction and prioritization | Defect Management · Troubleshooting · Communication |
 | [Traceability Matrix](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/matriz-rastreabilidade.md) | Relationship between requirement, acceptance criteria, test case, execution and defect | Traceability · Test Coverage · Requirements Analysis |
+| [Test Cycle Report](https://github.com/GabrielaAmbos/qa-templates/blob/main/documentacao/relatorio-de-execucao.md) | Planned and executed cases, results, defects by severity, known risks and the QA recommendation on the release | Test Reporting · Quality Metrics · Release Readiness |
 
 These and other templates — checklists, exploratory charter, automation plan and process documents — are gathered in the [qa-templates](https://github.com/GabrielaAmbos/qa-templates) repository.
 
