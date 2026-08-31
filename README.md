@@ -160,6 +160,12 @@ QA de **Horizon Chase 2** durante o período pré-lançamento, com testes em dif
 
 **Principais tecnologias:** Unreal Engine · TestRail · iOS · macOS · tvOS
 
+### RedStudios · 2021–atual
+
+Testes Alpha/Beta de jogos da franquia V-Monsters, com validação exploratória, regressão, E2E e acompanhamento de defeitos em Android e PC/Steam.
+
+**Principais práticas:** Game QA · Alpha/Beta Testing · Android · Steam
+
 ### Lojas Renner · 2021
 
 Projeto omnichannel envolvendo a jornada do pedido entre e-commerce, integrações, logística e aplicação Android utilizada nas lojas.
