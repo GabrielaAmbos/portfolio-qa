@@ -261,11 +261,23 @@ Throughout my career, I have worked with products from different segments and le
 
 Work on internal workforce scheduling and commission calculation systems, with business rules that carry financial impact.
 
+- Analysis of requirements and commission business rules
+- Design and execution of functional and regression scenarios
+- E2E automation with Cypress and Node.js
+- API testing with Postman
+- Investigation of asynchronous integrations with Kafka and log analysis
+- Defect tracking through to retesting
+
 **Main technologies:** Cypress · Node.js · Postman · Kafka
 
 ### Banco Fibra · 2022–2023
 
 Testing of financial flows involving transfers, transaction limits and multi-level authorization processes.
+
+- Testing of transfer flows and transaction limits
+- Validation of multi-level authorization processes
+- Web automation with Selenium WebDriver and C#
+- Test case and defect management in Azure DevOps
 
 **Main technologies:** Selenium WebDriver · C# · Azure DevOps
 
@@ -273,11 +285,22 @@ Testing of financial flows involving transfers, transaction limits and multi-lev
 
 QA for **[Horizon Chase 2](https://www.horizonchase2.com/)** during the pre-launch period, testing across different devices in the Apple ecosystem.
 
+- Functional, exploratory, regression and compatibility testing
+- Build validation on iPhone, iPad, Mac Mini and Apple TV
+- Creation and maintenance of cases and scenarios in TestRail
+- Logging and tracking of defects in ClickUp
+- Technical reports in English with evidence and player impact
+
 **Main technologies:** Unreal Engine · TestRail · iOS · macOS · tvOS
 
 ### RedStudios · 2021–present
 
 Alpha/Beta testing of games from the **[V-Monsters](https://vmonsters.com/)** franchise, with exploratory validation, regression, E2E and defect tracking on Android and PC/Steam.
+
+- Alpha/Beta testing of builds from the V-Monsters franchise
+- Exploratory and regression testing on Android and PC/Steam
+- Validation of the main player journeys
+- Defect reporting and retesting after fixes
 
 **Main practices:** Game QA · Alpha/Beta Testing · Android · Steam
 
@@ -285,11 +308,21 @@ Alpha/Beta testing of games from the **[V-Monsters](https://vmonsters.com/)** fr
 
 Omnichannel project covering the order journey across e-commerce, integrations, logistics and the Android application used in stores.
 
+- Testing of the order journey across e-commerce, integrations and logistics
+- API testing with Rest Assured and Java
+- Validation of the Android application used in stores
+- Defect tracking in Azure DevOps
+
 **Main technologies:** Rest Assured · Java · Android · Azure DevOps
 
 ### NTConsult · 2020–2021
 
 International government transparency project involving Web applications, APIs and databases, working professionally in Spanish.
+
+- Testing of the transparency portal's Web applications
+- API testing with RestSharp and C#
+- Data and consistency validation in SQL Server
+- Documentation and communication in Spanish with the international team
 
 **Main technologies:** Selenium WebDriver · RestSharp · C# · SQL Server
 
@@ -297,11 +330,19 @@ International government transparency project involving Web applications, APIs a
 
 Testing of academic systems and automation of flows used by students and educational institutions.
 
+- Testing of academic flows used by students and institutions
+- Web automation with Selenium WebDriver and C#
+- Design and maintenance of test cases
+
 **Main technologies:** Selenium WebDriver · C#
 
 ### SENAI Institute of Innovation · 2019–2020
 
 The start of my professional career in QA, working on experimental projects related to technology, industry and logistics.
+
+- First professional role in QA, on experimental projects
+- Writing scenarios in BDD
+- Web automation with Cypress
 
 **Main technologies:** Cypress · BDD
 
@@ -314,7 +355,7 @@ The start of my professional career in QA, working on experimental projects rela
 
 Throughout my career and my study projects, I have worked with different tools and approaches. I try to choose the technology according to the problem that needs to be solved, keeping tests readable, reliable and easy to evolve.
 
-### Core — what I do day to day
+### Professional experience
 
 | Category | Tools, technologies and practices |
 | --- | --- |
@@ -323,18 +364,17 @@ Throughout my career and my study projects, I have worked with different tools a
 | **Languages** | JavaScript · Node.js · Java · C# |
 | **Data and integrations** | SQL · SQL Server · DBeaver · Apache Kafka |
 | **Platforms** | Web · Android · iOS · macOS · tvOS · Unreal Engine |
-
-### Working knowledge
-
-| Category | Tools and technologies |
-| --- | --- |
-| **Tools** | Appium · Robot Framework · MongoDB · GitHub Actions · Postman · SoapUI |
 | **Management and traceability** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
 | **Investigation** | Chrome DevTools · Log analysis · Git · GitHub · Code Review |
+| **Methodologies** | Scrum · Kanban · Risk-based testing · Defect management |
 
-### Practices
+### Studies and personal projects
 
-Scrum · Kanban · Risk-based testing · Defect management · GitHub Copilot · Rovo · Claude · ChatGPT
+Appium · Robot Framework · MongoDB · GitHub Actions
+
+### Productivity tools
+
+GitHub Copilot · Claude · ChatGPT · Rovo
 
 ---
 
@@ -394,7 +434,7 @@ You can get in touch with me on LinkedIn or by email. I also keep my projects an
 ---
 
 <p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
+  <i>Let's talk?</i>
   <br><br>
   <img src="./icons/gato.gif" width="60" alt="Cat">
 </p>
