@@ -69,16 +69,20 @@ a:hover { text-decoration: underline; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 12px;
   min-height: 56px;
 }
 
-.topbar nav { display: flex; gap: 20px; flex-wrap: wrap; }
+.topbar-actions { flex-shrink: 0; }
+
+.topbar nav { display: flex; gap: 12px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+.topbar nav::-webkit-scrollbar { display: none; }
 
 .topbar nav a {
   color: var(--muted);
-  font-size: .9rem;
+  font-size: .84rem;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .topbar nav a:hover { color: var(--text); text-decoration: none; }
