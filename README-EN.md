@@ -6,7 +6,13 @@
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
-  <b>QA Engineer | Test Automation | Web, APIs & Mobile</b>
+  <b>QA Engineer | Quality Engineering | Test Automation</b>
+</p>
+
+<p align="center">
+  I turn requirements and business risk into test strategy, automation and quality evidence.
+  <br>
+  <sub>6+ years of experience · Web · APIs · Mobile · Games</sub>
 </p>
 
 <p align="center">
@@ -34,15 +40,16 @@ Throughout my career, I have worked with systems of varying levels of complexity
 
 I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.
 
-**Main areas of expertise:**
+**How I work**
 
-- <img src="./icons/paw.svg" width="16" height="16"> **Test strategy:** planning, requirements analysis, risk-based testing and defect management
-- <img src="./icons/paw.svg" width="16" height="16"> **Web and E2E automation:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java and C#
-- <img src="./icons/paw.svg" width="16" height="16"> **BDD:** writing scenarios in Gherkin to bring business, development and QA closer together
-- <img src="./icons/paw.svg" width="16" height="16"> **API testing:** REST and SOAP with Postman, SoapUI, Rest Assured and RestSharp
-- <img src="./icons/paw.svg" width="16" height="16"> **Data and integrations:** SQL, SQL Server, DBeaver, Kafka and log analysis
-- <img src="./icons/paw.svg" width="16" height="16"> **Mobile and multi-platform:** Android, iOS, macOS, tvOS and game testing with Unreal Engine
-- <img src="./icons/paw.svg" width="16" height="16"> **International teams:** technical documentation in English and professional experience in Spanish
+| | |
+| --- | --- |
+| **01 · I understand the product** | I analyze requirements, business rules and acceptance criteria before defining the test strategy |
+| **02 · I identify risks** | I prioritize scenarios by business impact, frequency of use and likelihood of failure |
+| **03 · I choose the approach** | I combine exploratory, functional, API, integration, database and automated testing according to risk |
+| **04 · I investigate** | I dig into logs, APIs, data and integrations to understand the behavior behind a defect |
+| **05 · I automate what is worth automating** | Automation exists to reduce regression and speed up feedback, not to inflate the number of tests |
+| **06 · I communicate quality** | I turn test results into evidence that helps the team decide whether a delivery is ready |
 
 ---
 
@@ -58,7 +65,11 @@ The suite has 40 automated tests, including positive and negative scenarios for 
 
 The project uses GitHub Actions for automated execution and has documentation in Portuguese and English.
 
+**Result:** 40 tests · 4 resources · 7 smoke tests
+
 **Stack:** Cypress · JavaScript · Node.js · GitHub Actions
+
+**Evidence:** [Execution report](https://gabrielaambos.github.io/automacao-fake-store-api/)
 
 [View project on GitHub →](https://github.com/GabrielaAmbos/automacao-fake-store-api)
 
@@ -72,7 +83,11 @@ The scenarios were written in BDD/Gherkin and organized using the Page Object Mo
 
 The main challenge of this project was working with a real application and its dynamic data, keeping the validations as stable as possible.
 
+**Result:** 15 scenarios · 3 browsers · headless execution
+
 **Stack:** Java · Selenium · Cucumber · Maven
+
+**Evidence:** [Execution report](https://htmlpreview.github.io/?https://github.com/GabrielaAmbos/automacao-trivago/blob/main/docs/relatorio-execucao.html)
 
 [View project on GitHub →](https://github.com/GabrielaAmbos/automacao-trivago)
 
@@ -119,6 +134,21 @@ Besides the main projects, I maintain repositories dedicated to studying and pra
 | [Robot Framework](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Introductory Web automation projects using Robot Framework | Python · Robot Framework |
 
 </details>
+
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Quality Engineering
+
+The areas I work across in the quality cycle, from strategy decisions to technical investigation.
+
+| Area | What it involves |
+| --- | --- |
+| **Test strategy** | Risk-based testing, planning, requirements analysis and acceptance criteria |
+| **API quality** | REST and SOAP, contract validation, negative scenarios and integration testing |
+| **Data validation** | SQL and SQL Server to verify consistency, integrity and the effect of operations on the database |
+| **Automation** | Cypress, Selenium WebDriver, Rest Assured, RestSharp and Appium, applied according to risk |
+| **Delivery** | Git, CI/CD with GitHub Actions, execution reports and versioned evidence |
+| **Investigation** | Chrome DevTools, log analysis, Kafka and API inspection |
 
 ---
 
@@ -278,39 +308,31 @@ The start of my professional career in QA, working on experimental projects rela
 
 ---
 
-## <img src="./icons/cat.svg" width="30" height="30"> Technical skills
+## <img src="./icons/cat.svg" width="30" height="30"> Tech stack
 
 Throughout my career and my study projects, I have worked with different tools and approaches. I try to choose the technology according to the problem that needs to be solved, keeping tests readable, reliable and easy to evolve.
 
-### Professional experience
+### Core — what I do day to day
 
 | Category | Tools, technologies and practices |
 | --- | --- |
-| **Web and E2E automation** | Cypress · Selenium WebDriver · Cucumber · BDD · Gherkin |
-| **APIs** | Postman · SoapUI · Rest Assured · RestSharp · REST · SOAP |
+| **Quality Engineering** | Test Strategy · Risk-based Testing · API Testing · Test Automation · Exploratory Testing · Defect Management |
+| **Automation** | Cypress · Selenium WebDriver · Rest Assured · RestSharp · Cucumber · BDD / Gherkin |
 | **Languages** | JavaScript · Node.js · Java · C# |
 | **Data and integrations** | SQL · SQL Server · DBeaver · Apache Kafka |
-| **Management and traceability** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
-| **Version control and investigation** | Git · GitHub · Code review · Log analysis · Chrome DevTools |
 | **Platforms** | Web · Android · iOS · macOS · tvOS · Unreal Engine |
-| **Methodologies and practices** | Scrum · Kanban · Risk-based testing · Defect management |
 
-### Studies and personal projects
+### Working knowledge
 
-Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo · Claude · ChatGPT
+| Category | Tools and technologies |
+| --- | --- |
+| **Tools** | Appium · Robot Framework · MongoDB · GitHub Actions · Postman · SoapUI |
+| **Management and traceability** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
+| **Investigation** | Chrome DevTools · Log analysis · Git · GitHub · Code Review |
 
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-</p>
+### Practices
+
+Scrum · Kanban · Risk-based testing · Defect management · GitHub Copilot · Rovo · Claude · ChatGPT
 
 ---
 
