@@ -6,7 +6,13 @@
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
-  <b>QA Engineer | Test Automation | Web, APIs & Mobile</b>
+  <b>QA Engineer | Quality Engineering | Test Automation</b>
+</p>
+
+<p align="center">
+  Transformo requisitos e riscos de negócio em estratégias de teste, automação e evidências de qualidade.
+  <br>
+  <sub>6+ anos de experiência · Web · APIs · Mobile · Games</sub>
 </p>
 
 <p align="center">
@@ -34,15 +40,16 @@ Ao longo da minha trajetória, trabalhei com sistemas de diferentes níveis de c
 
 Gosto de enxergar qualidade além da interface. Meu trabalho envolve entender requisitos e regras de negócio, identificar riscos, investigar o comportamento entre diferentes camadas da aplicação e transformar tudo isso em uma estratégia de testes clara e sustentável.
 
-**Principais áreas de atuação:**
+**Como eu trabalho**
 
-- <img src="./icons/paw.svg" width="16" height="16"> **Estratégia de testes:** planejamento, análise de requisitos, testes baseados em risco e gestão de defeitos
-- <img src="./icons/paw.svg" width="16" height="16"> **Automação Web e E2E:** Cypress, Selenium WebDriver, JavaScript, Node.js, Java e C#
-- <img src="./icons/paw.svg" width="16" height="16"> **BDD:** criação de cenários em Gherkin para aproximar negócio, desenvolvimento e QA
-- <img src="./icons/paw.svg" width="16" height="16"> **API Testing:** REST e SOAP com Postman, SoapUI, Rest Assured e RestSharp
-- <img src="./icons/paw.svg" width="16" height="16"> **Dados e integrações:** SQL, SQL Server, DBeaver, Kafka e análise de logs
-- <img src="./icons/paw.svg" width="16" height="16"> **Mobile e multiplataforma:** Android, iOS, macOS, tvOS e testes de games com Unreal Engine
-- <img src="./icons/paw.svg" width="16" height="16"> **Times internacionais:** documentação técnica em inglês e experiência profissional em espanhol
+| | |
+| --- | --- |
+| **01 · Entendo o produto** | Analiso requisitos, regras de negócio e critérios de aceite antes de definir a estratégia de testes |
+| **02 · Identifico riscos** | Priorizo cenários considerando impacto no negócio, frequência de uso e probabilidade de falha |
+| **03 · Escolho a abordagem** | Combino testes exploratórios, funcionais, de API, integração, banco de dados e automação conforme o risco |
+| **04 · Investigo** | Investigo logs, APIs, dados e integrações para entender o comportamento por trás do defeito |
+| **05 · Automatizo o que faz sentido** | Automação serve para reduzir regressão e acelerar o feedback, não para aumentar o número de testes |
+| **06 · Comunico qualidade** | Transformo os resultados dos testes em evidências que ajudam o time a decidir se uma entrega está pronta |
 
 ---
 
@@ -58,7 +65,11 @@ A suíte possui 40 testes automatizados, incluindo cenários positivos e negativ
 
 O projeto utiliza GitHub Actions para execução automatizada e possui documentação em português e inglês.
 
+**Resultado:** 40 testes · 4 recursos · 7 testes smoke
+
 **Stack:** Cypress · JavaScript · Node.js · GitHub Actions
+
+**Evidências:** [Relatório de execução](https://gabrielaambos.github.io/automacao-fake-store-api/)
 
 [Ver projeto no GitHub →](https://github.com/GabrielaAmbos/automacao-fake-store-api)
 
@@ -72,7 +83,11 @@ Os cenários foram escritos em BDD/Gherkin e organizados utilizando Page Object 
 
 O principal desafio deste projeto foi trabalhar com uma aplicação real e seus dados dinâmicos, mantendo as validações o mais estáveis possível.
 
+**Resultado:** 15 cenários · 3 navegadores · execução headless
+
 **Stack:** Java · Selenium · Cucumber · Maven
+
+**Evidências:** [Relatório de execução](https://htmlpreview.github.io/?https://github.com/GabrielaAmbos/automacao-trivago/blob/main/docs/relatorio-execucao.html)
 
 [Ver projeto no GitHub →](https://github.com/GabrielaAmbos/automacao-trivago)
 
@@ -119,6 +134,21 @@ Além dos projetos principais, mantenho repositórios voltados ao estudo e à pr
 | [Robot Framework](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Projetos introdutórios de automação Web utilizando Robot Framework | Python · Robot Framework |
 
 </details>
+
+---
+
+## <img src="./icons/cat.svg" width="30" height="30"> Quality Engineering
+
+As frentes em que atuo no ciclo de qualidade, das decisões de estratégia à investigação técnica.
+
+| Frente | O que envolve |
+| --- | --- |
+| **Estratégia de testes** | Testes baseados em risco, planejamento, análise de requisitos e critérios de aceite |
+| **Qualidade de APIs** | REST e SOAP, validação de contratos, cenários negativos e testes de integração |
+| **Validação de dados** | SQL e SQL Server para verificar consistência, integridade e efeito das operações no banco |
+| **Automação** | Cypress, Selenium WebDriver, Rest Assured, RestSharp e Appium, aplicados conforme o risco |
+| **Entrega** | Git, CI/CD com GitHub Actions, relatórios de execução e evidências versionadas |
+| **Investigação** | Chrome DevTools, análise de logs, Kafka e inspeção de APIs |
 
 ---
 
@@ -278,39 +308,31 @@ Início da minha trajetória profissional em QA, atuando em projetos experimenta
 
 ---
 
-## <img src="./icons/cat.svg" width="30" height="30"> Habilidades técnicas
+## <img src="./icons/cat.svg" width="30" height="30"> Stack técnica
 
 Ao longo da minha carreira e dos meus projetos de estudo, trabalhei com diferentes ferramentas e abordagens. Procuro escolher a tecnologia de acordo com o problema que precisa ser resolvido, mantendo os testes legíveis, confiáveis e fáceis de evoluir.
 
-### Experiência profissional
+### Core — o que faço no dia a dia
 
 | Categoria | Ferramentas, tecnologias e práticas |
 | --- | --- |
-| **Automação Web e E2E** | Cypress · Selenium WebDriver · Cucumber · BDD · Gherkin |
-| **APIs** | Postman · SoapUI · Rest Assured · RestSharp · REST · SOAP |
+| **Quality Engineering** | Test Strategy · Risk-based Testing · API Testing · Test Automation · Exploratory Testing · Defect Management |
+| **Automação** | Cypress · Selenium WebDriver · Rest Assured · RestSharp · Cucumber · BDD / Gherkin |
 | **Linguagens** | JavaScript · Node.js · Java · C# |
 | **Dados e integrações** | SQL · SQL Server · DBeaver · Apache Kafka |
-| **Gestão e rastreabilidade** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
-| **Versionamento e investigação** | Git · GitHub · Code Review · Análise de logs · Chrome DevTools |
 | **Plataformas** | Web · Android · iOS · macOS · tvOS · Unreal Engine |
-| **Metodologias e práticas** | Scrum · Kanban · Testes baseados em risco · Gestão de defeitos |
 
-### Estudos e projetos pessoais
+### Conhecimento de apoio
 
-Appium · Robot Framework · MongoDB · GitHub Actions · GitHub Copilot · Rovo · Claude · ChatGPT
+| Categoria | Ferramentas e tecnologias |
+| --- | --- |
+| **Ferramentas** | Appium · Robot Framework · MongoDB · GitHub Actions · Postman · SoapUI |
+| **Gestão e rastreabilidade** | Jira · Zephyr · Confluence · Azure DevOps · TestRail · ClickUp |
+| **Investigação** | Chrome DevTools · Análise de logs · Git · GitHub · Code Review |
 
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-</p>
+### Práticas
+
+Scrum · Kanban · Testes baseados em risco · Gestão de defeitos · GitHub Copilot · Rovo · Claude · ChatGPT
 
 ---
 

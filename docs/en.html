@@ -30,11 +30,12 @@
   <div class="wrap">
     <nav>
       <a href="#about">About</a>
-      <a href="#projects">Automation</a>
+      <a href="#projects">Case Studies</a>
+      <a href="#qa-engineering">Quality Engineering</a>
       <a href="#game-qa">Game QA</a>
       <a href="#documentation">Artifacts</a>
       <a href="#experience">Experience</a>
-      <a href="#skills">Skills</a>
+      <a href="#skills">Stack</a>
       <a href="#education">Education</a>
       <a href="#contact">Contact</a>
     </nav>
@@ -55,13 +56,21 @@
 
 <div class="hero wrap">
   <h1>Gabriela Ambos</h1>
-  <p class="role">QA Engineer &middot; Test Automation &middot; Web, APIs &amp; Mobile</p>
-  <p class="location">São Leopoldo, RS &middot; Brazil</p>
+  <p class="role">QA Engineer &middot; Quality Engineering &middot; Test Automation</p>
+  <p class="tagline">I turn requirements and business risk into test strategy, automation and quality evidence.</p>
+  <p class="location">6+ years of experience &middot; Web &middot; APIs &middot; Mobile &middot; Games &middot; São Leopoldo, Brazil</p>
   <div class="cta">
     <a class="btn btn-primary" href="https://www.linkedin.com/in/gabrielaambos/?locale=en-US">LinkedIn</a>
     <a class="btn" href="mailto:gabrielaambos15@gmail.com">E-mail</a>
     <a class="btn" href="https://github.com/GabrielaAmbos">GitHub</a>
     <a class="btn" href="https://linktr.ee/gabrielaambos">Linktree</a>
+  </div>
+  <div class="stats">
+    <div class="stat"><span class="num">6+</span><span class="lbl">years in QA</span></div>
+    <div class="stat"><span class="num">8</span><span class="lbl">companies</span></div>
+    <div class="stat"><span class="num">5</span><span class="lbl">industries</span></div>
+    <div class="stat"><span class="num">6</span><span class="lbl">platforms</span></div>
+    <div class="stat"><span class="num">40</span><span class="lbl">tests in Fake Store API</span></div>
   </div>
 </div>
 
@@ -71,49 +80,83 @@
     <p>I am a QA Engineer with <strong>over 6 years of experience</strong> in Software Quality, working on products in the <strong>finance, retail, e-commerce, education and gaming</strong> industries.</p>
     <p>Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as <a href="https://ri.grupocasasbahia.com.br/">Grupo Casas Bahia</a>, <a href="https://bancofibra.com.br/">Banco Fibra</a>, <a href="https://www.lojasrennersa.com.br/">Lojas Renner</a>, <a href="https://www.aquiris.com.br/">Aquiris</a> and <a href="https://redstudios.com.br/">RedStudios</a>, including the multi-platform validation of <strong><a href="https://www.horizonchase2.com/">Horizon Chase 2</a></strong> and Alpha/Beta testing of projects from the <strong><a href="https://vmonsters.com/">V-Monsters</a></strong> franchise.</p>
     <p>I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.</p>
-    <p class="subhead">Main areas of expertise</p>
-    <ul class="expertise">
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>Test strategy:</strong> planning, requirements analysis, risk-based testing and defect management</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>Web and E2E automation:</strong> Cypress, Selenium WebDriver, JavaScript, Node.js, Java and C#</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>BDD:</strong> writing scenarios in Gherkin to bring business, development and QA closer together</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>API testing:</strong> REST and SOAP with Postman, SoapUI, Rest Assured and RestSharp</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>Data and integrations:</strong> SQL, SQL Server, DBeaver, Kafka and log analysis</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>Mobile and multi-platform:</strong> Android, iOS, macOS, tvOS and game testing with Unreal Engine</li>
-      <li><svg viewBox="0 0 24 24"><use href="#i-paw"/></svg> <strong>International teams:</strong> technical documentation in English and professional experience in Spanish</li>
-    </ul>
+    <p class="subhead">How I work</p>
+    <div class="steps">
+      <div class="step"><span class="n">01</span><h4>I understand the product</h4><p>I analyze requirements, business rules and acceptance criteria before defining the test strategy.</p></div>
+      <div class="step"><span class="n">02</span><h4>I identify risks</h4><p>I prioritize scenarios by business impact, frequency of use and likelihood of failure.</p></div>
+      <div class="step"><span class="n">03</span><h4>I choose the approach</h4><p>I combine exploratory, functional, API, integration, database and automated testing according to risk.</p></div>
+      <div class="step"><span class="n">04</span><h4>I investigate</h4><p>I do not treat a bug as merely expected result differing from actual: I dig into logs, APIs, data and integrations to understand the behavior.</p></div>
+      <div class="step"><span class="n">05</span><h4>I automate what is worth automating</h4><p>Automation exists to reduce regression and speed up feedback, not to inflate the number of tests.</p></div>
+      <div class="step"><span class="n">06</span><h4>I communicate quality</h4><p>I turn test results into evidence that helps the team decide whether a delivery is ready.</p></div>
+    </div>
   </div>
 </section>
 
 <section id="projects">
   <div class="wrap">
-    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Automation projects</h2>
+    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Automation case studies</h2>
     <p class="lead">Here are some of the projects I built to practice and demonstrate different test automation approaches, from APIs to Web E2E journeys.</p>
 
     <div class="projects">
-      <article class="card">
-        <h3>Fake Store API &middot; API automation</h3>
-        <p>Project built to exercise an API automation suite with Cypress, JavaScript and Node.js, covering different resources and behaviors of the Fake Store API.</p>
-        <p>The suite has 40 automated tests, including positive and negative scenarios for products, carts, users and authentication. I also implemented contract and response validations, custom commands, fixtures, separation of smoke and regression tests and report generation.</p>
-        <p>The project uses GitHub Actions for automated execution and has documentation in Portuguese and English.</p>
-        <div class="tags"><span class="tag">Cypress</span><span class="tag">JavaScript</span><span class="tag">Node.js</span><span class="tag">GitHub Actions</span></div>
-        <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-fake-store-api">View project on GitHub &rarr;</a>
+      <article class="card case">
+        <h3>Fake Store API</h3>
+        <p class="subhead">Problem</p>
+        <p>How can I quickly confirm that the API's main endpoints still work after a change?</p>
+        <p class="subhead">My approach</p>
+        <ul>
+          <li>Analysis of the public endpoints and definition of scenarios per resource</li>
+          <li>Coverage of happy paths and negative scenarios</li>
+          <li>Contract validation of the returned objects</li>
+          <li>Separation between smoke and regression suites using tags</li>
+          <li>Custom commands and fixtures for reuse</li>
+          <li>Evidence generation with Mochawesome reports</li>
+          <li>Continuous integration with GitHub Actions and a pre-push hook</li>
+        </ul>
+        <p class="subhead">Result</p>
+        <div class="metrics"><div class="metric"><span class="num">40</span><span class="lbl">tests</span></div><div class="metric"><span class="num">4</span><span class="lbl">resources</span></div><div class="metric"><span class="num">7</span><span class="lbl">smoke tests</span></div></div>
+        <p class="subhead">Stack</p>
+        <div class="tags"><span class="tag">Cypress</span><span class="tag">JavaScript</span><span class="tag">Node.js</span><span class="tag">GitHub Actions</span><span class="tag">Mochawesome</span><span class="tag">ESLint</span></div>
+        <p class="subhead">Evidence</p>
+        <div class="evidence"><a class="btn" href="https://github.com/GabrielaAmbos/automacao-fake-store-api">GitHub</a><a class="btn" href="https://gabrielaambos.github.io/automacao-fake-store-api/">Execution report</a></div>
       </article>
 
-      <article class="card">
-        <h3>Trivago &middot; Web E2E automation</h3>
-        <p>End-to-end automation project built on a real hotel search environment, using Java, Selenium WebDriver, Cucumber and Maven.</p>
-        <p>The scenarios were written in BDD/Gherkin and organized using the Page Object Model, with tests for search, sorting and filtering. The automation also covers headless execution, different browsers and automatic screenshot capture when a run fails.</p>
-        <p>The main challenge of this project was working with a real application and its dynamic data, keeping the validations as stable as possible.</p>
-        <div class="tags"><span class="tag">Java</span><span class="tag">Selenium</span><span class="tag">Cucumber</span><span class="tag">Maven</span></div>
-        <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-trivago">View project on GitHub &rarr;</a>
+      <article class="card case">
+        <h3>Trivago</h3>
+        <p class="subhead">Problem</p>
+        <p>How can I validate search, sorting and filters on a real site whose data changes on every run?</p>
+        <p class="subhead">My approach</p>
+        <ul>
+          <li>Scenarios written in Gherkin, close to business language</li>
+          <li>Page Object Model architecture to isolate interface changes</li>
+          <li>Assertions designed for dynamic data, without relying on fixed values</li>
+          <li>Headless execution across three browsers</li>
+          <li>Automatic screenshot capture at the moment of failure</li>
+          <li>Execution report versioned in the repository</li>
+        </ul>
+        <p class="subhead">Result</p>
+        <div class="metrics"><div class="metric"><span class="num">15</span><span class="lbl">scenarios</span></div><div class="metric"><span class="num">3</span><span class="lbl">browsers</span></div><div class="metric"><span class="num">1</span><span class="lbl">E2E feature</span></div></div>
+        <p class="subhead">Stack</p>
+        <div class="tags"><span class="tag">Java</span><span class="tag">Selenium WebDriver</span><span class="tag">Cucumber</span><span class="tag">Maven</span><span class="tag">BDD</span></div>
+        <p class="subhead">Evidence</p>
+        <div class="evidence"><a class="btn" href="https://github.com/GabrielaAmbos/automacao-trivago">GitHub</a><a class="btn" href="https://htmlpreview.github.io/?https://github.com/GabrielaAmbos/automacao-trivago/blob/main/docs/relatorio-execucao.html">Execution report</a></div>
       </article>
 
-      <article class="card">
-        <h3>Go Rest API &middot; Automation with RestSharp</h3>
-        <p>REST API automation project built with C# and RestSharp, focused on validating responses, contracts and HTTP status codes.</p>
-        <p>The goal was to explore an API testing approach using the C# ecosystem and to organize the tests in a simple and maintainable way.</p>
-        <div class="tags"><span class="tag">C#</span><span class="tag">RestSharp</span></div>
-        <a class="card-link" href="https://github.com/GabrielaAmbos/automacao-go-rest-api">View project on GitHub &rarr;</a>
+      <article class="card case">
+        <h3>Go Rest API</h3>
+        <p class="subhead">Problem</p>
+        <p>How can I validate contracts, responses and HTTP status codes of a REST API using the .NET ecosystem?</p>
+        <p class="subhead">My approach</p>
+        <ul>
+          <li>Test structure built with RestSharp in C#</li>
+          <li>Validation of contract, response body and HTTP status</li>
+          <li>Simple organization, prioritizing readability and maintenance</li>
+        </ul>
+        <p class="subhead">Result</p>
+        <div class="metrics"><div class="metric"><span class="num">REST</span><span class="lbl">focus</span></div><div class="metric"><span class="num">C#</span><span class="lbl">language</span></div></div>
+        <p class="subhead">Stack</p>
+        <div class="tags"><span class="tag">C#</span><span class="tag">RestSharp</span><span class="tag">.NET</span></div>
+        <p class="subhead">Evidence</p>
+        <div class="evidence"><a class="btn" href="https://github.com/GabrielaAmbos/automacao-go-rest-api">GitHub</a></div>
       </article>
     </div>
 
@@ -145,11 +188,32 @@
   </div>
 </section>
 
+<section id="qa-engineering">
+  <div class="wrap">
+    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Quality Engineering</h2>
+    <p class="lead">The areas I work across in the quality cycle, from strategy decisions to technical investigation.</p>
+    <div class="qa-grid">
+      <div class="card"><h4>Test strategy</h4><p>Risk-based testing, planning, requirements analysis and definition of acceptance criteria.</p></div>
+      <div class="card"><h4>API quality</h4><p>REST and SOAP, contract validation, negative scenarios and integration testing.</p></div>
+      <div class="card"><h4>Data validation</h4><p>SQL and SQL Server to verify consistency, integrity and the effect of operations on the database.</p></div>
+      <div class="card"><h4>Automation</h4><p>Cypress, Selenium WebDriver, Rest Assured, RestSharp and Appium, applied according to the risk of each flow.</p></div>
+      <div class="card"><h4>Delivery</h4><p>Git, CI/CD with GitHub Actions, execution reports and versioned evidence.</p></div>
+      <div class="card"><h4>Investigation</h4><p>Chrome DevTools, log analysis, Kafka and API inspection to understand the behavior behind a defect.</p></div>
+    </div>
+  </div>
+</section>
+
 <section id="game-qa">
   <div class="wrap">
     <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Game QA</h2>
     <p class="lead">Beyond Web applications and APIs, I also have experience with Quality Assurance applied to games, working at different stages of development and across multiple platforms.</p>
     <p class="lead">In this context, my work mainly involves exploratory and regression testing, build validation, identification and tracking of defects, cross-platform compatibility and evaluation of the player experience.</p>
+
+    <div class="qa-grid">
+      <div class="card"><h4>Multiplatform QA</h4><p>iOS · macOS · tvOS · Android · PC</p></div>
+      <div class="card"><h4>Testing types</h4><p>Exploratory · Functional · Regression · Compatibility · Usability</p></div>
+      <div class="card"><h4>Production</h4><p>Build validation · Defect triage · Retesting · Release validation</p></div>
+    </div>
 
     <div class="game-cards">
       <article class="card game-card">
@@ -323,6 +387,7 @@
         <div class="period">2023 &ndash; 2026</div>
         <div>
           <div class="company">Grupo Casas Bahia</div>
+          <div class="domain">Internal systems &middot; commissioning &middot; financial rules</div>
           <p class="desc">Work on internal workforce scheduling and commission calculation systems, with business rules that carry financial impact.</p>
           <div class="tags"><span class="tag">Cypress</span><span class="tag">Node.js</span><span class="tag">Postman</span><span class="tag">Kafka</span></div>
         </div>
@@ -331,6 +396,7 @@
         <div class="period">2022 &ndash; 2023</div>
         <div>
           <div class="company">Banco Fibra</div>
+          <div class="domain">Transfers &middot; transaction limits &middot; multi-level authorization</div>
           <p class="desc">Testing of financial flows involving transfers, transaction limits and multi-level authorization processes.</p>
           <div class="tags"><span class="tag">Selenium WebDriver</span><span class="tag">C#</span><span class="tag">Azure DevOps</span></div>
         </div>
@@ -339,6 +405,7 @@
         <div class="period">2022</div>
         <div>
           <div class="company">Aquiris</div>
+          <div class="domain">Games &middot; pre-launch &middot; Apple ecosystem</div>
           <p class="desc">QA for <strong><a href="https://www.horizonchase2.com/">Horizon Chase 2</a></strong> during the pre-launch period, testing across different devices in the Apple ecosystem.</p>
           <div class="tags"><span class="tag">Unreal Engine</span><span class="tag">TestRail</span><span class="tag">iOS</span><span class="tag">macOS</span><span class="tag">tvOS</span></div>
         </div>
@@ -347,6 +414,7 @@
         <div class="period">2021 &ndash; present</div>
         <div>
           <div class="company">RedStudios</div>
+          <div class="domain">Games &middot; Alpha/Beta &middot; Android and PC</div>
           <p class="desc">Alpha/Beta testing of games from the <strong><a href="https://vmonsters.com/">V-Monsters</a></strong> franchise, with exploratory validation, regression, E2E and defect tracking on Android and PC/Steam.</p>
           <div class="tags"><span class="tag">Game QA</span><span class="tag">Alpha/Beta Testing</span><span class="tag">Android</span><span class="tag">Steam</span></div>
         </div>
@@ -355,6 +423,7 @@
         <div class="period">2021</div>
         <div>
           <div class="company">Lojas Renner</div>
+          <div class="domain">Omnichannel &middot; e-commerce &middot; logistics &middot; physical stores</div>
           <p class="desc">Omnichannel project covering the order journey across e-commerce, integrations, logistics and the Android application used in stores.</p>
           <div class="tags"><span class="tag">Rest Assured</span><span class="tag">Java</span><span class="tag">Android</span><span class="tag">Azure DevOps</span></div>
         </div>
@@ -363,6 +432,7 @@
         <div class="period">2020 &ndash; 2021</div>
         <div>
           <div class="company">NTConsult</div>
+          <div class="domain">Government transparency &middot; international project</div>
           <p class="desc">International government transparency project involving Web applications, APIs and databases, working professionally in Spanish.</p>
           <div class="tags"><span class="tag">Selenium WebDriver</span><span class="tag">RestSharp</span><span class="tag">C#</span><span class="tag">SQL Server</span></div>
         </div>
@@ -371,6 +441,7 @@
         <div class="period">2020</div>
         <div>
           <div class="company">GVDASA</div>
+          <div class="domain">Academic systems &middot; educational institutions</div>
           <p class="desc">Testing of academic systems and automation of flows used by students and educational institutions.</p>
           <div class="tags"><span class="tag">Selenium WebDriver</span><span class="tag">C#</span></div>
         </div>
@@ -379,6 +450,7 @@
         <div class="period">2019 &ndash; 2020</div>
         <div>
           <div class="company">SENAI Institute of Innovation</div>
+          <div class="domain">Experimental projects &middot; industry and logistics</div>
           <p class="desc">The start of my professional career in QA, working on experimental projects related to technology, industry and logistics.</p>
           <div class="tags"><span class="tag">Cypress</span><span class="tag">BDD</span></div>
         </div>
@@ -390,24 +462,28 @@
 
 <section id="skills">
   <div class="wrap">
-    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Technical skills</h2>
-
-    <p class="lead">Throughout my career and my study projects, I have worked with different tools and approaches. I try to choose the technology according to the problem that needs to be solved, keeping tests readable, reliable and easy to evolve.</p>
-
-    <p class="subhead">Professional experience</p>
+    <h2><svg viewBox="0 0 24 24"><use href="#i-cat"/></svg> Tech stack</h2>
+    <p class="subhead">Core &mdash; what I do day to day</p>
     <dl class="skills">
-      <div class="skill-row"><dt>Web and E2E automation</dt><dd>Cypress &middot; Selenium WebDriver &middot; Cucumber &middot; BDD &middot; Gherkin</dd></div>
-      <div class="skill-row"><dt>APIs</dt><dd>Postman &middot; SoapUI &middot; Rest Assured &middot; RestSharp &middot; REST &middot; SOAP</dd></div>
-      <div class="skill-row"><dt>Languages</dt><dd>JavaScript &middot; Node.js &middot; Java &middot; C#</dd></div>
-      <div class="skill-row"><dt>Data and integrations</dt><dd>SQL &middot; SQL Server &middot; DBeaver &middot; Apache Kafka</dd></div>
-      <div class="skill-row"><dt>Management and traceability</dt><dd>Jira &middot; Zephyr &middot; Confluence &middot; Azure DevOps &middot; TestRail &middot; ClickUp</dd></div>
-      <div class="skill-row"><dt>Version control and investigation</dt><dd>Git &middot; GitHub &middot; Code review &middot; Log analysis &middot; Chrome DevTools</dd></div>
-      <div class="skill-row"><dt>Platforms</dt><dd>Web &middot; Android &middot; iOS &middot; macOS &middot; tvOS &middot; Unreal Engine</dd></div>
-      <div class="skill-row"><dt>Methodologies and practices</dt><dd>Scrum &middot; Kanban &middot; Risk-based testing &middot; Defect management</dd></div>
+      <div class="skill-row"><dt>Quality Engineering</dt><dd><span class="tag">Test Strategy</span><span class="tag">Risk-based Testing</span><span class="tag">API Testing</span><span class="tag">Test Automation</span><span class="tag">Exploratory Testing</span><span class="tag">Defect Management</span></dd></div>
+      <div class="skill-row"><dt>Automation</dt><dd><span class="tag">Cypress</span><span class="tag">Selenium WebDriver</span><span class="tag">Rest Assured</span><span class="tag">RestSharp</span><span class="tag">Cucumber</span><span class="tag">BDD / Gherkin</span></dd></div>
+      <div class="skill-row"><dt>Languages</dt><dd><span class="tag">JavaScript</span><span class="tag">Node.js</span><span class="tag">Java</span><span class="tag">C#</span></dd></div>
+      <div class="skill-row"><dt>Data and integrations</dt><dd><span class="tag">SQL</span><span class="tag">SQL Server</span><span class="tag">DBeaver</span><span class="tag">Apache Kafka</span></dd></div>
+      <div class="skill-row"><dt>Platforms</dt><dd><span class="tag">Web</span><span class="tag">Android</span><span class="tag">iOS</span><span class="tag">macOS</span><span class="tag">tvOS</span><span class="tag">Unreal Engine</span></dd></div>
     </dl>
 
-    <p class="subhead">Studies and personal projects</p>
-    <p class="lead">Appium &middot; Robot Framework &middot; MongoDB &middot; GitHub Actions &middot; GitHub Copilot &middot; Rovo &middot; Claude &middot; ChatGPT</p>
+    <p class="subhead">Working knowledge</p>
+    <dl class="skills">
+      <div class="skill-row"><dt>Tools</dt><dd><span class="tag">Appium</span><span class="tag">Robot Framework</span><span class="tag">MongoDB</span><span class="tag">GitHub Actions</span><span class="tag">Postman</span><span class="tag">SoapUI</span></dd></div>
+      <div class="skill-row"><dt>Management and traceability</dt><dd><span class="tag">Jira</span><span class="tag">Zephyr</span><span class="tag">Confluence</span><span class="tag">Azure DevOps</span><span class="tag">TestRail</span><span class="tag">ClickUp</span></dd></div>
+      <div class="skill-row"><dt>Investigation</dt><dd><span class="tag">Chrome DevTools</span><span class="tag">Log analysis</span><span class="tag">Git</span><span class="tag">GitHub</span><span class="tag">Code Review</span></dd></div>
+    </dl>
+
+    <p class="subhead">Practices</p>
+    <dl class="skills">
+      <div class="skill-row"><dt>Methodologies</dt><dd><span class="tag">Scrum</span><span class="tag">Kanban</span><span class="tag">Risk-based testing</span><span class="tag">Defect management</span></dd></div>
+      <div class="skill-row"><dt>Support</dt><dd><span class="tag">GitHub Copilot</span><span class="tag">Rovo</span><span class="tag">Claude</span><span class="tag">ChatGPT</span></dd></div>
+    </dl>
   </div>
 </section>
 
