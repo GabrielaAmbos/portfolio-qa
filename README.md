@@ -257,7 +257,7 @@ Estes e outros templates — checklists, charter exploratório, plano de automa�
 
 Ao longo da minha carreira, trabalhei com produtos de diferentes segmentos e níveis de criticidade. Essas experiências me permitiram atuar tanto na execução e automação de testes quanto na investigação de problemas, análise de regras de negócio e colaboração com diferentes áreas.
 
-### Grupo Casas Bahia · 2023–2026
+### [Grupo Casas Bahia](https://www.grupocasasbahia.com.br/) · 2023–2026
 
 Atuação em sistemas internos de jornada e cálculo de comissões, com regras de negócio de impacto financeiro.
 
@@ -270,7 +270,7 @@ Atuação em sistemas internos de jornada e cálculo de comissões, com regras d
 
 **Principais tecnologias:** Cypress · Node.js · Postman · Kafka
 
-### Banco Fibra · 2022–2023
+### [Banco Fibra](https://bancofibra.com.br/) · 2022–2023
 
 Testes de fluxos financeiros envolvendo transferências, limites transacionais e processos de autorização em múltiplos níveis.
 
@@ -281,7 +281,7 @@ Testes de fluxos financeiros envolvendo transferências, limites transacionais e
 
 **Principais tecnologias:** Selenium WebDriver · C# · Azure DevOps
 
-### Aquiris · 2022
+### [Aquiris](https://www.aquiris.com.br/) · 2022
 
 QA de **[Horizon Chase 2](https://www.horizonchase2.com/)** durante o período pré-lançamento, com testes em diferentes dispositivos do ecossistema Apple.
 
@@ -293,7 +293,7 @@ QA de **[Horizon Chase 2](https://www.horizonchase2.com/)** durante o período p
 
 **Principais tecnologias:** Unreal Engine · TestRail · iOS · macOS · tvOS
 
-### RedStudios · 2021–atual
+### [RedStudios](https://redstudios.com.br/) · 2021–atual
 
 Testes Alpha/Beta de jogos da franquia **[V-Monsters](https://vmonsters.com/)**, com validação exploratória, regressão, E2E e acompanhamento de defeitos em Android e PC/Steam.
 
@@ -304,7 +304,7 @@ Testes Alpha/Beta de jogos da franquia **[V-Monsters](https://vmonsters.com/)**,
 
 **Principais práticas:** Game QA · Alpha/Beta Testing · Android · Steam
 
-### Lojas Renner · 2021
+### [Lojas Renner](https://www.lojasrennersa.com.br/) · 2021
 
 Projeto omnichannel envolvendo a jornada do pedido entre e-commerce, integrações, logística e aplicação Android utilizada nas lojas.
 
@@ -315,7 +315,7 @@ Projeto omnichannel envolvendo a jornada do pedido entre e-commerce, integraçõ
 
 **Principais tecnologias:** Rest Assured · Java · Android · Azure DevOps
 
-### NTConsult · 2020–2021
+### [NTConsult](https://ntconsultcorp.com/pt/) · 2020–2021
 
 Projeto internacional de transparência governamental, envolvendo aplicações Web, APIs e banco de dados, com atuação profissional em espanhol.
 
@@ -326,7 +326,7 @@ Projeto internacional de transparência governamental, envolvendo aplicações W
 
 **Principais tecnologias:** Selenium WebDriver · RestSharp · C# · SQL Server
 
-### GVDASA · 2020
+### [GVDASA](https://gvdasa.com.br/) · 2020
 
 Testes de sistemas acadêmicos e automação de fluxos utilizados por alunos e instituições de ensino.
 
@@ -336,7 +336,7 @@ Testes de sistemas acadêmicos e automação de fluxos utilizados por alunos e i
 
 **Principais tecnologias:** Selenium WebDriver · C#
 
-### Instituto SENAI de Inovação · 2019–2020
+### [Instituto SENAI de Inovação](https://institutos.senairs.org.br/metalmecanica/) · 2019–2020
 
 Início da minha trajetória profissional em QA, atuando em projetos experimentais relacionados a tecnologia, indústria e logística.
 
