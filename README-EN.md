@@ -6,13 +6,13 @@
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
-  <b>QA Engineer | Quality Engineering | Test Automation</b>
+  <b>Quality Engineering | Test Automation | Software Quality</b>
 </p>
 
 <p align="center">
   I like to understand the product's requirements and risks in order to find the best ways to test, automate and track quality.
   <br>
-  <sub>6+ years of experience · Web · APIs · Mobile · Games</sub>
+  <sub>6+ years in QA · Web · APIs · Mobile · Games</sub>
 </p>
 
 <p align="center">
