@@ -34,11 +34,13 @@
 
 ## <img src="./icons/cat.svg" width="30" height="30"> About me
 
-I am a QA Engineer with **over 6 years of experience** in Software Quality, working on products in the **finance, retail, e-commerce, education and gaming** industries.
+I have been working in Software Quality for over 6 years and, in that time, I have had the chance to get to know very different products and challenges — across **finance, retail, e-commerce, education and games**.
 
-Throughout my career, I have worked with systems of varying levels of complexity — from financial transactions and commission calculation to omnichannel operations and multi-platform games. I have contributed to projects for companies such as [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/), [Aquiris](https://www.aquiris.com.br/) and [RedStudios](https://redstudios.com.br/), including the multi-platform validation of **[Horizon Chase 2](https://www.horizonchase2.com/)** and Alpha/Beta testing of projects from the **[V-Monsters](https://vmonsters.com/)** franchise.
+I have worked with systems ranging from financial transactions and commission calculation to omnichannel operations and multi-platform games. That variety taught me to adapt the way I test according to the product, the context and, above all, the risks involved.
 
-I like to look at quality beyond the interface. My work involves understanding requirements and business rules, identifying risks, investigating behavior across the different layers of an application and turning all of that into a clear and sustainable test strategy.
+I like to look at quality more broadly, not only at what happens on the screen. I try to understand **how the product works, what the business rules are, where the risks are and how the different parts of the system relate to each other**. From there, I look for the best way to test, investigate problems and build solutions that make sense for each project.
+
+More than finding bugs, I like to understand **why they happened and what we can do to keep them from happening again**.
 
 **How I work**
 
