@@ -247,7 +247,7 @@ p:last-child { margin-bottom: 0; }
 .evidence .btn { padding: 6px 14px; font-size: .84rem; }
 
 /* Cards de jogos */
-.game-cards { display: grid; gap: 18px; }
+.game-cards { display: grid; gap: 18px; margin-top: 28px; }
 .game-card { display: grid; grid-template-columns: 132px 1fr; gap: 20px; align-items: start; }
 .game-cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 10px; display: block; background: var(--surface-alt); }
 .game-card details { margin-top: 14px; }
