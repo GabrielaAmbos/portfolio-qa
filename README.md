@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Transformo requisitos e riscos de negócio em estratégias de teste, automação e evidências de qualidade.
+  Gosto de entender os requisitos e os riscos do produto para encontrar as melhores formas de testar, automatizar e acompanhar a qualidade.
   <br>
   <sub>6+ anos de experiência · Web · APIs · Mobile · Games</sub>
 </p>
