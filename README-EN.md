@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I turn requirements and business risk into test strategy, automation and quality evidence.
+  I like to understand the product's requirements and risks in order to find the best ways to test, automate and track quality.
   <br>
   <sub>6+ years of experience · Web · APIs · Mobile · Games</sub>
 </p>
