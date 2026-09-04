@@ -159,9 +159,9 @@ a:hover { text-decoration: underline; }
 .btn:hover { border-color: var(--accent); text-decoration: none; transform: translateY(-1px); }
 .btn svg { width: 16px; height: 16px; }
 .btn-primary { background: var(--accent); border-color: var(--accent); color: #fff; }
-:root[data-theme="dark"] .btn-primary { color: #08201d; }
+:root[data-theme="dark"] .btn-primary { color: #3a1022; }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .btn-primary { color: #08201d; }
+  :root:not([data-theme="light"]) .btn-primary { color: #3a1022; }
 }
 .btn-primary:hover { opacity: .9; }
 
@@ -364,7 +364,11 @@ footer {
   font-size: .88rem;
 }
 footer .quote { font-style: italic; margin-bottom: 20px; }
-footer img { width: 52px; height: auto; }
+footer img { width: 52px; height: auto; filter: hue-rotate(188deg) saturate(3) brightness(.55); }
+:root[data-theme="dark"] footer img { filter: hue-rotate(179deg); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) footer img { filter: hue-rotate(179deg); }
+}
 
 @media (max-width: 640px) {
   .topbar nav { display: none; }
