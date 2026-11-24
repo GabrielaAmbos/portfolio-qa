@@ -11,7 +11,8 @@
   <a href="https://gabrielaambos.github.io/portfolio-qa/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/gabrielaambos/">LinkedIn</a> ·
   <a href="https://github.com/GabrielaAmbos">GitHub</a> ·
-  <a href="mailto:gabrielaambos15@gmail.com">E-mail</a>
+  <a href="mailto:gabrielaambos15@gmail.com">E-mail</a> ·
+  <a href="docs/assets/cv/GabrielaAmbos-CV-EN.pdf">Resume (PDF)</a>
 </p>
 
 ---
@@ -109,3 +110,4 @@ Testing financial flows and API automation.
 - [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
 - [GitHub](https://github.com/GabrielaAmbos)
 - [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
+- [Resume (PDF)](docs/assets/cv/GabrielaAmbos-CV-EN.pdf)
