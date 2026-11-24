@@ -1,249 +1,111 @@
-<p align="right">
-  <a href="README.md"><img src="./icons/bandeira-brasil.png" width="28" height="21" alt="Português"></a>&nbsp;
-  <a href="README-EN.md"><img src="./icons/bandeira-eua.png" width="28" height="21" alt="English"></a>
-</p>
+<p align="center"><img src="./icons/cat.svg" width="34" height="34" alt=""></p>
 
 <h1 align="center">Gabriela Ambos</h1>
 
 <p align="center">
-  <b>Engenharia de Qualidade | Automação de Testes | Qualidade de Software</b>
+  <strong>QA Engineer</strong><br>
+  Software Quality · Test Automation · API Testing
 </p>
 
 <p align="center">
-  Gosto de entender os requisitos e os riscos do produto para encontrar as melhores formas de testar, automatizar e acompanhar a qualidade.
-  <br>
-  <sub>6+ anos com QA · Web · APIs · Mobile · Games</sub>
-</p>
-
-<p align="center">
-  <a href="https://gabrielaambos.github.io/portfolio-qa/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio_online-0F766E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio online">
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielaambos/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabrielaambos15@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-  <a href="https://linktr.ee/gabrielaambos">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
+  <a href="https://gabrielaambos.github.io/portfolio-qa/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gabrielaambos/">LinkedIn</a> ·
+  <a href="https://github.com/GabrielaAmbos">GitHub</a> ·
+  <a href="mailto:gabrielaambos15@gmail.com">E-mail</a>
 </p>
 
 ---
 
-## <img src="./icons/cat.svg" width="30" height="30"> Sobre mim
+## About me
 
-Sou QA Engineer com **mais de 6 anos de experiência** em qualidade de software e automação de testes, atuando na confiabilidade de sistemas críticos nos setores **financeiro, varejo, e-commerce, games e educação**.
+I'm a QA Engineer working with software quality across financial services, retail, e-commerce, education, and gaming products.
 
-Ao longo da minha trajetória, participei de projetos para empresas como [Grupo Casas Bahia](https://ri.grupocasasbahia.com.br/), [Banco Fibra](https://bancofibra.com.br/), [Lojas Renner](https://www.lojasrennersa.com.br/) e [Aquiris](https://www.aquiris.com.br/), incluindo a validação multiplataforma de **Horizon Chase 2**.
+My experience includes testing Web applications, APIs, regression scenarios, and games. I work with functional validation, business rules, system integrations, and test automation using Cypress and Selenium.
 
-**Principais áreas de atuação:**
+## How I work
 
-- <img src="./icons/paw.svg" width="16" height="16"> Planejamento e definição de estratégias de teste **baseadas em risco**, incluindo planos de teste, análise de requisitos e gestão de defeitos
-- <img src="./icons/paw.svg" width="16" height="16"> Escrita de cenários com [BDD](https://www.objective.com.br/insights/bdd/), promovendo clareza e rastreabilidade entre áreas técnicas e de negócio
-- <img src="./icons/paw.svg" width="16" height="16"> Automação de testes **Web e E2E** com Cypress, Node.js e Selenium WebDriver
-- <img src="./icons/paw.svg" width="16" height="16"> Testes de **APIs REST e SOAP** com Postman, SoapUI, Rest Assured e RestSharp
-- <img src="./icons/paw.svg" width="16" height="16"> Validação de integrações, mensageria e consistência de dados com Kafka, DBeaver e SQL Server
-- <img src="./icons/paw.svg" width="16" height="16"> Testes de aplicações web, Android e plataformas Apple, além de testes de jogos com Unreal Engine
-- <img src="./icons/paw.svg" width="16" height="16"> Atuação em times internacionais, com documentação técnica em inglês e colaboração profissional em espanhol
+| | |
+| --- | --- |
+| **01 — Understanding** | Requirements, functionalities, and business rules. |
+| **02 — Testing** | Functional, API, regression, and automated testing. |
+| **03 — Investigation** | Analysis of failures, data, integrations, and test evidence. |
 
----
+## Featured projects
 
-## <img src="./icons/cat.svg" width="30" height="30"> Projetos em destaque
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fake Store API</h3>
+      <p>API automation suite with smoke and regression scenarios, contract validation, reusable test data, and execution reports. The repository contains 40 automated tests.</p>
+      <p><strong>Technologies:</strong> Cypress · JavaScript</p>
+      <a href="https://github.com/GabrielaAmbos/automacao-fake-store-api">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Trivago</h3>
+      <p>Web automation using BDD scenarios, Page Object Model, and cross-browser execution.</p>
+      <p><strong>Technologies:</strong> Java · Selenium WebDriver · Cucumber</p>
+      <a href="https://github.com/GabrielaAmbos/automacao-trivago">View repository ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Go Rest API</h3>
+      <p>REST API automation project with response and HTTP status code validations.</p>
+      <p><strong>Technologies:</strong> C# · RestSharp · .NET</p>
+      <a href="https://github.com/GabrielaAmbos/automacao-go-rest-api">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Game QA</h3>
+      <p>QA experience in gaming, including functional, exploratory, regression, and multiplatform testing.</p>
+      <p><strong>Projects:</strong> Horizon Chase 2 · V-Monsters</p>
+      <a href="https://www.horizonchase2.com/">Horizon Chase 2</a> ·
+      <a href="https://vmonsters.com/">V-Monsters</a>
+    </td>
+  </tr>
+</table>
 
-Estes projetos representam as principais áreas do meu portfólio: automação de API, testes E2E, diferentes linguagens e automação mobile.
+Project details and technical documentation are available in the respective repositories.
 
-### Fake Store API — automação de testes de API
+## Professional experience
 
-Projeto autoral desenvolvido com **Cypress, JavaScript e Node.js**, estruturado para validar os endpoints públicos da Fake Store API.
+### RedStudios · 2021–Present
 
-- 40 testes automatizados cobrindo produtos, carrinhos, usuários e autenticação
-- Cenários positivos e negativos
-- Validação de contratos, respostas e autenticação
-- Operações GET, POST, PUT, PATCH e DELETE
-- Custom commands, fixtures e organização por recursos
-- Separação entre testes smoke e regressivos por tags
-- ESLint, relatórios Mochawesome e workflows com GitHub Actions
-- Documentação técnica em português e inglês
+*Games · Alpha/Beta · Android and PC*<br>
+Alpha/Beta testing of titles from the V-Monsters franchise.
 
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-fake-store-api)
+### Grupo Casas Bahia · 2023–2026
 
----
+*Internal systems · Commissioning · Financial rules*<br>
+Functional, regression, E2E, and API testing, integration investigation, and defect tracking.
 
-### Trivago — automação Web E2E
+### Banco Fibra · 2022–2023
 
-Projeto autoral de automação end-to-end desenvolvido com **Java, Selenium WebDriver, Cucumber e Maven**.
-
-- Cenários BDD escritos em Gherkin
-- Arquitetura baseada em Page Object Model
-- Testes de busca, ordenação e filtros de hotéis
-- Cenários positivos e negativos
-- Execução em modo headless
-- Suporte a Chrome, Firefox e Edge
-- Screenshots automáticos em caso de falha
-- Validações preparadas para dados dinâmicos de um ambiente real
-
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-trivago)
-
----
-
-### Go Rest API — automação com RestSharp
-
-Projeto de automação de API REST desenvolvido com **C# e RestSharp**, com foco na validação de contratos, respostas e status HTTP.
-
-[Ver projeto no GitHub](https://github.com/GabrielaAmbos/automacao-go-rest-api)
-
-
----
+*Financial systems*<br>
+Testing financial flows and API automation.
 
 <details>
-<summary><b>Outros projetos e estudos</b></summary>
+<summary><strong>Previous experience</strong></summary>
 
-### Automação Web
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Busca CEP Correios](https://github.com/GabrielaAmbos/automacao-busca-cep-correios) | Automação Web com cenários escritos em BDD | C#, Selenium, SpecFlow |
-| [Cadastro de Usuários](https://github.com/GabrielaAmbos/cadastro-de-usuarios) | Automação do fluxo de cadastro de usuários | C#, Selenium |
-| [Automation Practice](https://github.com/GabrielaAmbos/automacao-automationpractice) | Automação Web de uma aplicação de e-commerce | Java, Selenium |
-
-### Automação de API
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Reqres API](https://github.com/GabrielaAmbos/desafio-automacao-reqres) | Validação da criação e consulta de usuários em uma API REST | Java, Rest Assured |
-| [ServeRest](https://github.com/GabrielaAmbos/desafio-automacao-serve-rest) | Automação de API de e-commerce | C#, RestSharp |
-
-### Outros frameworks
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Automação Mobile com Appium](https://github.com/GabrielaAmbos/curso-alura-appium) | Automação de testes mobile Android | Java, Appium |
-| [Robot Framework — exemplo básico](https://github.com/GabrielaAmbos/robot-framework-simple-example) | Exemplo introdutório de automação com Robot Framework | Python, Robot Framework |
-| [Robot Framework — NinjaPixel](https://github.com/GabrielaAmbos/robot-framework-ninjapixel) | Automação Web com Robot Framework | Python, Robot Framework |
+- **Aquiris · 2022** — QA Analyst on Horizon Chase 2, testing on Apple devices, managing test cases, and reporting defects.
+- **Lojas Renner · 2021** — Testing the order journey across e-commerce, integrations, logistics, and the Android app.
+- **NTConsult · 2020–2021** — Web and API testing and SQL Server data validation.
+- **GVDASA · 2020** — Testing academic systems and Web automation.
 
 </details>
 
----
+## Technical skills
 
-## <img src="./icons/cat.svg" width="30" height="30"> Documentação e artefatos de QA
-
-Qualidade vai além do código. Este material demonstra minha experiência com planejamento, análise de riscos e organização do processo de testes.
-
-| Artefato | Descrição |
+| Category | Skills |
 | --- | --- |
-| [Template de Plano de Testes](https://github.com/GabrielaAmbos/plano-de-teste) | Estrutura de plano de testes com objetivos, escopo, tipos de teste, ambiente, riscos, critérios e cronograma |
+| **Test Automation** | Cypress · Selenium WebDriver |
+| **API Testing** | Postman · API Validation |
+| **Languages and Databases** | JavaScript · Node.js · Java · C# · SQL · PostgreSQL · SQL Server · DBeaver |
+| **Software Quality** | Functional Testing · Exploratory Testing · Regression Testing · E2E Testing · BDD/Gherkin · Risk Analysis · Defect Management |
+| **Work Tools** | Jira · Zephyr · ClickUp · Azure DevOps |
 
----
+## Contact
 
-## <img src="./icons/cat.svg" width="30" height="30"> Experiência profissional
-
-| Período | Empresa | Projeto | Stack principal |
-| --- | --- | --- | --- |
-| 2023 a 2026 | **Grupo Casas Bahia** | Sistemas de jornada e cálculo de comissões com impacto financeiro | Cypress, Node.js, Postman, Kafka |
-| 2022 a 2023 | **Banco Fibra** *(via Meta)* | Transferências financeiras, limites transacionais e autorização multinível | Selenium, C#, Azure DevOps |
-| 2022 | **Aquiris** | Testes de **Horizon Chase 2** no ecossistema Apple | Unreal Engine, TestRail |
-| 2021 | **Lojas Renner** *(via Datum)* | Operação omnichannel entre e-commerce, logística e lojas físicas | Rest Assured, Java, Android |
-| 2020 a 2021 | **NTConsult** | Portal internacional de transparência governamental, com atuação em espanhol | Selenium, RestSharp, C# |
-| 2020 | **GVDASA** | Sistema acadêmico com fluxos de notas, rematrícula e documentos | Selenium, C# |
-| 2019 a 2020 | **Instituto SENAI** | Projetos experimentais relacionados a logística e automação | Cypress, BDD |
-
-> Consulte as responsabilidades e entregas de cada atuação no meu [LinkedIn](https://www.linkedin.com/in/gabrielaambos/).
-
----
-
-## <img src="./icons/cat.svg" width="30" height="30"> Habilidades técnicas
-
-### Experiência profissional
-
-| Categoria | Ferramentas, tecnologias e práticas |
-| --- | --- |
-| **Automação Web e E2E** | Cypress, Selenium WebDriver, Cucumber, BDD e Gherkin |
-| **Testes de API** | Postman, SoapUI, Rest Assured, RestSharp, REST e SOAP |
-| **Linguagens** | JavaScript, Node.js, Java e C# |
-| **Dados e integrações** | SQL Server, DBeaver, SQL e Apache Kafka |
-| **Gestão e rastreabilidade** | Jira, Zephyr, Confluence, Azure DevOps, TestRail e ClickUp |
-| **Versionamento e análise** | Git, GitHub, code review, análise de logs e Chrome DevTools |
-| **Plataformas** | Web, Android, iOS, macOS, tvOS, Unreal Engine e Firebase |
-| **Metodologias** | Scrum, Kanban, testes baseados em risco e gestão de defeitos |
-
-### Projetos e estudos
-
-| Categoria | Ferramentas e tecnologias |
-| --- | --- |
-| **Automação mobile** | Appium |
-| **Outros frameworks** | Robot Framework |
-| **Banco de dados** | MongoDB |
-| **Integração contínua** | GitHub Actions |
-| **Ferramentas de apoio** | GitHub Copilot, Rovo, Claude e ChatGPT |
-
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
-</p>
-
----
-
-## <img src="./icons/cat.svg" width="30" height="30"> Formação
-
-- **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas** na UNIASSELVI *(em andamento, conclusão prevista para 2027)*
-- **Técnica em Informática** no Instituto Federal do Rio Grande do Sul — IFRS, Campus Sapucaia, 2013 a 2017
-
-**Idiomas:**
-
-- Português nativo
-- Inglês técnico para leitura e documentação; conversação básica
-- Espanhol técnico para leitura e documentação
-
-<details>
-<summary><b>Certificações e cursos</b></summary>
-
-### Quality Assurance
-
-- [Quality Assurance: plano de testes e gestão de bugs](https://cursos.alura.com.br/user/gabriela-ambos/course/quality-assurance-plano-testes-gestao-bugs/formalCertificate) — Alura
-- [Selenium: sua webapp testada de ponta a ponta em Java](https://cursos.alura.com.br/user/gabrielaambos/course/selenium/formalCertificate) — Alura
-- [Automating your API tests with REST Assured](https://testautomationu.applitools.com/certificate/?id=4a0881f0) — Test Automation University
-- [Intro to Selenium WebDriver with .NET Core](https://testautomationu.applitools.com/certificate/?id=77bcc157) — Test Automation University
-- [GitHub Actions for Testing](https://testautomationu.applitools.com/certificate/?id=52d8a945) — Test Automation University
-- [Introdução a Behavior Driven Development com Java](https://www.dio.me/certificate/F6B4D8B7/share) — DIO
-- [Teste de Software: seja um expert e impulsione sua carreira](https://www.udemy.com/certificate/UC-F8M1J1WE/) — Udemy
-
-### Desenvolvimento de software
-
-- [C#: entendendo a Orientação a Objetos](https://cursos.alura.com.br/certificate/0bca0e12-df47-4484-b31b-37a5e9e0a802) — Alura
-- [Introdução ao MongoDB e Bancos de Dados NoSQL](https://www.dio.me/certificate/E570B683/share) — DIO
-- [Desenvolvimento Avançado em Java](https://www.dio.me/certificate/22D8CF74/share) — DIO
-- [Aprenda a Aplicar Testes com Java](https://www.dio.me/certificate/77FD89B6/share) — DIO
-
-### Agilidade
-
-- [Projetos Ágeis com Scrum](https://www.dio.me/certificate/529C74E5/share) — DIO
-- [Agilidade: promovendo a transformação digital](https://cursos.alura.com.br/certificate/4603158c-034d-4752-8581-8860ebf91b79) — Alura
-
-</details>
-
-## <img src="./icons/cat.svg" width="30" height="30"> Contato
-
-Estou aberta a oportunidades e conexões na área de qualidade e automação de testes. Vamos conversar!
-
-- <img src="./icons/paw.svg" width="16" height="16"> [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
-- <img src="./icons/paw.svg" width="16" height="16"> [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
-- <img src="./icons/paw.svg" width="16" height="16"> [Linktree](https://linktr.ee/gabrielaambos)
-
-
----
-
-<p align="center">
-  <i>"Quality is never an accident; it is always the result of intelligent effort." — John Ruskin</i>
-  <br><br>
-  <img src="./icons/gato.gif" width="60" alt="Gato">
-</p>
+- [Portfolio](https://gabrielaambos.github.io/portfolio-qa/)
+- [LinkedIn](https://www.linkedin.com/in/gabrielaambos/)
+- [GitHub](https://github.com/GabrielaAmbos)
+- [gabrielaambos15@gmail.com](mailto:gabrielaambos15@gmail.com)
