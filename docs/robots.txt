@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gabrielaambos.github.io/portfolio-qa/sitemap.xml
