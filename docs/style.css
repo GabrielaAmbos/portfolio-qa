@@ -121,6 +121,7 @@ section { padding-block: 62px; border-top: 1px solid var(--border); scroll-margi
 .skill-row { display: grid; grid-template-columns: 190px minmax(0, 1fr); gap: 18px; }
 .skill-row dt { font-weight: 650; }
 .skill-row dd { margin: 0; color: var(--muted); }
+.skill-note { margin: 5px 0 0; font-size: .92rem; }
 .more-info { margin-top: 34px; }
 details { border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
 summary { padding: 14px 0; color: var(--text); cursor: pointer; font-size: .94rem; font-weight: 600; }
